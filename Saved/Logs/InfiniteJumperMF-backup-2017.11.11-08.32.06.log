@@ -1,0 +1,1100 @@
+﻿Log file open, 11/11/17 08:06:07
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: InfiniteJumperMF
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1401609413) SRandInit(1401609413).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.318655
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.11-12.06.10:691][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.11-12.06.10:691][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.11-12.06.10:877][  0]LogInit: Computer: LAPTOP-FV6L4TLG
+[2017.11.11-12.06.10:877][  0]LogInit: User: kreye
+[2017.11.11-12.06.10:877][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.11-12.06.10:877][  0]LogInit: High frequency timer resolution =2.339362 MHz
+[2017.11.11-12.06.10:877][  0]LogMemory: Memory total: Physical=11.5GB (12GB approx)
+[2017.11.11-12.06.10:880][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.11-12.06.10:880][  0]LogMemory: Process Physical Memory: 279.06 MB used, 279.06 MB peak
+[2017.11.11-12.06.10:880][  0]LogMemory: Process Virtual Memory: 282.25 MB used, 282.25 MB peak
+[2017.11.11-12.06.10:880][  0]LogMemory: Physical Memory: 2242.67 MB used,  9500.45 MB free, 11743.12 MB total
+[2017.11.11-12.06.10:880][  0]LogMemory: Virtual Memory: 676.02 MB used,  9500.45 MB free, 134217728.00 MB total
+[2017.11.11-12.06.12:636][  0]LogInit: Using OS detected language (en-US).
+[2017.11.11-12.06.12:636][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.11-12.06.12:910][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.11-12.06.22:584][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.11-12.06.22:616][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R5 Graphics' (Feature Level 11_0)
+[2017.11.11-12.06.22:617][  0]LogD3D11RHI:       499/0/5871 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.11.11-12.06.22:620][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.11-12.06.22:620][  0]LogD3D11RHI:       0/0/5871 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.11-12.06.22:620][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.11-12.06.22:648][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.11-12.06.22:649][  0]LogD3D11RHI:     GPU DeviceId: 0x9874 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.11-12.06.22:649][  0]LogWindows: EnumDisplayDevices:
+[2017.11.11-12.06.22:649][  0]LogWindows:    0. 'AMD Radeon(TM) R5 Graphics' (P:1 D:1)
+[2017.11.11-12.06.22:649][  0]LogWindows:    1. 'AMD Radeon(TM) R5 Graphics' (P:0 D:0)
+[2017.11.11-12.06.22:650][  0]LogWindows:    2. 'AMD Radeon(TM) R5 Graphics' (P:0 D:0)
+[2017.11.11-12.06.22:650][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.11.11-12.06.22:650][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R5 Graphics
+[2017.11.11-12.06.22:650][  0]LogD3D11RHI:   Driver Version: Crimson 16.6 (internal:16.300.2701.0, unified:16.300.2701.0)
+[2017.11.11-12.06.22:650][  0]LogD3D11RHI:      Driver Date: 8-9-2016
+[2017.11.11-12.06.22:650][  0]LogRHI: Texture pool is 349 MB (70% of 499 MB)
+[2017.11.11-12.06.22:830][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.11-12.06.23:093][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2017.11.11-12.06.23:133][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Intermediate/Shaders/WorkingDirectory/5760/).
+[2017.11.11-12.06.23:133][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kreye/AppData/Local/Temp/UnrealShaderWorkingDir/17C96DAF48E21C3466CA1D81415DDBDA/'.
+[2017.11.11-12.06.23:133][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.11-12.06.30:210][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.11-12.06.30:358][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.11-12.06.30:517][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.11-12.06.30:669][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.11-12.06.30:876][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.11-12.06.31:063][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.11-12.06.31:258][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.11-12.06.31:397][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.11-12.06.31:538][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.11-12.06.31:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.11-12.06.31:868][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.11-12.06.32:055][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.11-12.06.32:263][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.11-12.06.32:489][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.11-12.06.32:613][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.11-12.06.32:966][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.11-12.06.32:966][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.11-12.06.33:145][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.11-12.06.33:581][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.11-12.06.33:690][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.11-12.06.33:902][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.11-12.06.34:034][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.11-12.06.34:161][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.11-12.06.34:394][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.11-12.06.34:395][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.11-12.06.36:807][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.11-12.06.37:289][  0]LogDerivedDataCache: Loaded boot cache 0.48s 93MB C:/Users/kreye/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.11-12.06.37:289][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kreye/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.11-12.06.37:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.11-12.06.37:289][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.11-12.06.37:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.11-12.06.37:289][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.11-12.06.37:333][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.11-12.06.37:347][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kreye/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.11-12.06.37:370][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.11-12.06.37:439][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.11-12.06.37:490][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.11-12.06.37:501][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.11-12.06.44:764][  0]LogAssetRegistry: FAssetRegistry took 0.0351 seconds to start up
+[2017.11.11-12.06.45:321][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.11-12.06.47:561][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.11-12.06.49:472][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.11-12.06.49:668][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.11-12.06.49:691][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.11-12.06.49:691][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.11-12.06.49:691][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.11-12.06.49:691][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.11-12.06.52:505][  0]LogNetVersion: InfiniteJumperMF , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 767604215)
+[2017.11.11-12.06.54:221][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.381523 seconds
+[2017.11.11-12.06.54:236][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.11-12.06.54:236][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.11-12.06.54:236][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.11-12.06.54:433][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.11-12.07.28:372][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.11-12.07.28:546][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.11-12.07.31:497][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.11-12.07.33:148][  0]SourceControl: Source control is disabled
+[2017.11.11-12.07.33:149][  0]SourceControl: Source control is disabled
+[2017.11.11-12.07.33:362][  0]SourceControl: Source control is disabled
+[2017.11.11-12.07.33:551][  0]SourceControl: Source control is disabled
+[2017.11.11-12.07.36:100][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.11-12.07.36:934][  0]LogOcInput: OculusInput pre-init called
+[2017.11.11-12.07.38:038][  0]LogEngine: Initializing Engine...
+[2017.11.11-12.07.38:060][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.11-12.07.39:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.11-12.07.39:421][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.11-12.07.39:833][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.11-12.07.39:878][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.11-12.07.40:135][  0]LogInit: FAudioDevice initialized.
+[2017.11.11-12.07.40:496][  0]LogDerivedDataCache: Saved boot cache 0.36s 93MB C:/Users/kreye/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.11-12.07.40:526][  0]LogInit: Texture streaming: Enabled
+[2017.11.11-12.07.40:908][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.11-12.07.41:822][  0]LogInit: Transaction tracking system initialized
+[2017.11.11-12.07.43:405][  0]BlueprintLog: New page: Editor Load
+[2017.11.11-12.07.47:348][  0]LocalizationService: Localization service is disabled
+[2017.11.11-12.07.50:615][  0]LogConsoleResponse: Display: 
+[2017.11.11-12.07.53:041][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.11-12.07.53:042][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.11-12.07.53:046][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.11-12.07.53:916][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/' took 0.07s
+[2017.11.11-12.07.59:516][  0]SourceControl: Source control is disabled
+[2017.11.11-12.07.59:525][  0]Cmd: MAP LOAD FILE="G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Maps/InfiniteJumper.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.11-12.07.59:527][  0]LightingResults: New page: Lighting Build
+[2017.11.11-12.07.59:766][  0]MapCheck: New page: Map Check
+[2017.11.11-12.07.59:766][  0]LightingResults: New page: Lighting Build
+[2017.11.11-12.08.01:743][  0]LogBlueprint: Warning: [HighScoreSaveSlot] 'UserIndex' variable not found. Base class was probably changed.
+[2017.11.11-12.08.05:879][  0]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.11-12.08.05:925][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.11-12.08.06:178][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.11-12.08.06:349][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 170.561ms to complete.
+[2017.11.11-12.08.06:349][  0]LogFileHelpers: Loading map 'InfiniteJumper' took 6.823
+[2017.11.11-12.08.07:200][  0]LogCollectionManager: Loaded 0 collections in 0.003448 seconds
+[2017.11.11-12.08.07:420][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/Collections/' took 0.01s
+[2017.11.11-12.08.07:420][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/Developers/kreye/Collections/' took 0.01s
+[2017.11.11-12.08.07:420][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/Collections/' took 0.01s
+[2017.11.11-12.08.07:420][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.11-12.08.07:446][  0]LogContentBrowser: Native class hierarchy populated in 0.0246 seconds. Added 2386 classes and 500 folders.
+[2017.11.11-12.08.07:648][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2017.11.11-12.08.09:617][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0024 seconds. Added 0 classes and 0 folders.
+[2017.11.11-12.08.09:818][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0020 seconds. Added 1 classes and 2 folders.
+[2017.11.11-12.08.09:947][  0]LogSlate: Took 0.026214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.11-12.08.09:976][  0]LogSlate: Took 0.025049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.11-12.08.09:999][  0]LogSlate: Took 0.015949 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.11-12.08.10:263][  0]LogRenderer: Reallocating scene render targets to support 1092x324 Format 10 NumSamples 1 (Frame:1).
+[2017.11.11-12.08.11:455][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2017.11.11-12.08.11:456][  0]LogLoad: (Engine Initialization) Total time: 130.90 seconds
+[2017.11.11-12.08.11:456][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.11-12.08.11:461][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.11-12.08.11:512][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.11-12.08.11:689][  0]LogRenderer: Reallocating scene render targets to support 1092x376 Format 10 NumSamples 1 (Frame:2).
+[2017.11.11-12.08.11:690][  0]LogSlate: Took 0.025914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.11-12.08.11:776][  2]LogAssetRegistry: Asset discovery search completed in 87.0350 seconds
+[2017.11.11-12.08.11:783][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.11-12.08.11:783][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000229 seconds (updated 0 objects)
+[2017.11.11-12.09.11:516][737]LogHttp: Warning: 0000027917CE7700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.11-12.09.11:516][737]LogHttp: Warning: 0000027917CE7700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.11-12.09.11:516][737]LogHttp: Warning: 0000027917CE7700: libcurl info message cache 1 (Closing connection 0)
+[2017.11.11-12.13.21:978][674]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.11-12.13.22:245][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.11-12.13.22:245][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.11-12.13.22:246][674]PIE: New page: PIE session: InfiniteJumper (Nov 11, 2017, 4:13:22 AM)
+[2017.11.11-12.13.22:246][674]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.11-12.13.22:281][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034691s)
+[2017.11.11-12.13.22:284][674]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.11-12.13.22:285][674]LogPlayLevel: PIE: World Init took: (0.003924s)
+[2017.11.11-12.13.22:285][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.039333s)
+[2017.11.11-12.13.22:313][674]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.11-12.13.22:333][674]LogInit: FAudioDevice initialized.
+[2017.11.11-12.13.22:387][674]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.11-12.13.22:393][674]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.11.11-08.13.22
+[2017.11.11-12.13.22:396][674]LogWorld: Bringing up level for play took: 0.006060
+[2017.11.11-12.13.22:530][674]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0019 seconds. Added 11 classes and 0 folders.
+[2017.11.11-12.13.22:590][674]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper -0.269
+[2017.11.11-12.13.22:591][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.11-12.13.24:955][768]LogRenderer: Reallocating scene render targets to support 1092x380 Format 10 NumSamples 1 (Frame:91).
+[2017.11.11-12.13.25:028][769]LogRenderer: Reallocating scene render targets to support 1092x408 Format 10 NumSamples 1 (Frame:92).
+[2017.11.11-12.13.25:158][770]LogRenderer: Reallocating scene render targets to support 1092x456 Format 10 NumSamples 1 (Frame:93).
+[2017.11.11-12.13.25:421][771]LogRenderer: Reallocating scene render targets to support 1092x484 Format 10 NumSamples 1 (Frame:94).
+[2017.11.11-12.13.25:535][772]LogRenderer: Reallocating scene render targets to support 1092x524 Format 10 NumSamples 1 (Frame:95).
+[2017.11.11-12.13.25:654][773]LogRenderer: Reallocating scene render targets to support 1092x528 Format 10 NumSamples 1 (Frame:96).
+[2017.11.11-12.13.32:597][ 18]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.11-12.13.32:705][ 18]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.11-12.15.49:750][725]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.11-12.15.50:310][725]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.11-12.15.50:611][725]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0023 seconds. Added 113 classes and 0 folders.
+[2017.11.11-12.15.52:055][725]LogSlate: Took 0.047468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.11-12.15.56:986][101]LogRenderer: Reallocating scene render targets to support 1092x608 Format 10 NumSamples 1 (Frame:1).
+[2017.11.11-12.16.36:743][886]LogSlate: Took 0.029555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.11-12.16.45:867][466]BlueprintLog: New page: Compile SideScrollerGameMode
+[2017.11.11-12.16.48:132][466]LogSavePackage: Save=120.78ms
+[2017.11.11-12.16.48:132][466]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerGameModeE4F27C9147681D0A80FAE7AB1072DF7A.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2017.11.11-12.16.48:136][466]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset
+[2017.11.11-12.16.48:561][471]LogSavePackage: Save=123.48ms
+[2017.11.11-12.16.48:561][471]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerGameModeAC9BAD7444EA5E12ACB2B1920541DFFD.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2017.11.11-12.16.48:565][471]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset
+[2017.11.11-12.17.01:199][314]LogSavePackage: Save=104.00ms
+[2017.11.11-12.17.01:199][314]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerGameMode390DC09A4F603EDD0A61D6901DAB16AC.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2017.11.11-12.17.01:203][314]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset
+[2017.11.11-12.17.09:714][883]LogSavePackage: Save=120.94ms
+[2017.11.11-12.17.09:716][883]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerGameModeBC410D2C47E5DE32414FDEBB4FAAF65C.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2017.11.11-12.17.09:733][883]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset
+[2017.11.11-12.17.12:666][103]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.11-12.18.38:391][831]LogSavePackage: Save=354.46ms
+[2017.11.11-12.18.38:391][831]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/BP_Level998441CC4A6E1FFA9E3BE8A3C07D0B30.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/BP_Level.uasset'
+[2017.11.11-12.18.38:395][831]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/BP_Level.uasset
+[2017.11.11-12.19.00:906][ 19]LogSlate: Took 0.007134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.11-12.19.10:706][ 46]LogSavePackage: Save=569.58ms
+[2017.11.11-12.19.10:706][ 46]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/InfiniteJumper_Auto171DE65F344925624BBCBE8BDEEA46F19.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/Autosaves/Game/SideScrollerBP/Maps/InfiniteJumper_Auto1.umap'
+[2017.11.11-12.19.10:710][ 46]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/Autosaves/Game/SideScrollerBP/Maps/InfiniteJumper_Auto1.umap
+[2017.11.11-12.19.10:776][ 46]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/InfiniteJumper' took 0.828
+[2017.11.11-12.19.10:776][ 46]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.828
+[2017.11.11-12.19.10:781][ 46]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft] ([1] browsable assets)...
+[2017.11.11-12.19.10:832][ 46]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft.SpikeSoloLeft]
+[2017.11.11-12.19.10:832][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft]
+[2017.11.11-12.19.10:953][ 46]LogSavePackage: Save=73.79ms
+[2017.11.11-12.19.10:954][ 46]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeSoloLeft_Auto1E5A759F1407286C628ACE9BDF0AB6BCB.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft_Auto1.uasset'
+[2017.11.11-12.19.10:957][ 46]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft_Auto1.uasset
+[2017.11.11-12.19.10:957][ 46]LogFileHelpers: Auto-saving content packages took 0.179
+[2017.11.11-12.19.37:463][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.11-12.19.37:506][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.11-12.19.37:506][ 12]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.11-12.19.37:558][ 12]LogPlayLevel: [PlayLevel] Compiling BP_Level before play...
+[2017.11.11-12.19.37:613][ 12]LogPlayLevel: [PlayLevel]   Compiling BP_PowerUpItem as a dependent...
+[2017.11.11-12.19.37:637][ 12]LogPlayLevel: [PlayLevel]   Compiling SpikeLog as a dependent...
+[2017.11.11-12.19.37:672][ 12]LogPlayLevel: [PlayLevel]   Compiling SpikeSoloLeft as a dependent...
+[2017.11.11-12.19.37:683][ 12]LogPlayLevel: [PlayLevel]   Compiling SpikeSoloRight as a dependent...
+[2017.11.11-12.19.37:695][ 12]LogPlayLevel: [PlayLevel]   Compiling BP_HUD as a dependent...
+[2017.11.11-12.19.37:725][ 12]LogPlayLevel: [PlayLevel]   Compiling BP_Restart as a dependent...
+[2017.11.11-12.19.37:777][ 12]LogPlayLevel: [PlayLevel]   Compiling SideScrollerCharacter as a dependent...
+[2017.11.11-12.19.39:071][ 12]LogPlayLevel: PlayLevel: Blueprint regeneration took 1565 ms (8 blueprints)
+[2017.11.11-12.19.39:072][ 12]PIE: New page: PIE session: InfiniteJumper (Nov 11, 2017, 4:19:39 AM)
+[2017.11.11-12.19.39:072][ 12]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.11-12.19.39:120][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048099s)
+[2017.11.11-12.19.39:122][ 12]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.11-12.19.39:123][ 12]LogPlayLevel: PIE: World Init took: (0.002226s)
+[2017.11.11-12.19.39:123][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.050860s)
+[2017.11.11-12.19.39:162][ 12]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.11-12.19.39:181][ 12]LogInit: FAudioDevice initialized.
+[2017.11.11-12.19.39:221][ 12]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.11-12.19.39:226][ 12]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.11.11-08.19.39
+[2017.11.11-12.19.39:228][ 12]LogWorld: Bringing up level for play took: 0.006062
+[2017.11.11-12.19.39:286][ 12]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 2.427
+[2017.11.11-12.19.39:287][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.11-12.19.39:649][ 12]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.11.11-12.19.41:720][ 54]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.41:752][ 55]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.41:791][ 56]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.41:833][ 57]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.41:878][ 58]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.41:921][ 59]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.41:964][ 60]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:008][ 61]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:052][ 62]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:099][ 63]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:142][ 64]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:187][ 65]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:228][ 66]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:273][ 67]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:319][ 68]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:363][ 69]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:409][ 70]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:452][ 71]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:499][ 72]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:544][ 73]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:589][ 74]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:633][ 75]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:679][ 76]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:722][ 77]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:767][ 78]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:812][ 79]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:857][ 80]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:901][ 81]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:955][ 82]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.42:996][ 83]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:039][ 84]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:084][ 85]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:130][ 86]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:174][ 87]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:220][ 88]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:264][ 89]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:309][ 90]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:353][ 91]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:397][ 92]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:442][ 93]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:485][ 94]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:529][ 95]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:573][ 96]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:617][ 97]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:663][ 98]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:707][ 99]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:752][100]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:796][101]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:842][102]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:886][103]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:932][104]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.43:976][105]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:020][106]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:065][107]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:110][108]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:155][109]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:198][110]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:243][111]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:286][112]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:330][113]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:374][114]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:417][115]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:462][116]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:510][117]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:553][118]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:597][119]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:642][120]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:687][121]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:732][122]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:777][123]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:821][124]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:865][125]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:909][126]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:951][127]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.44:996][128]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:040][129]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:084][130]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:129][131]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:172][132]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:215][133]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:260][134]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:304][135]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:348][136]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:392][137]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:437][138]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:480][139]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:525][140]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:569][141]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:612][142]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:657][143]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:702][144]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.45:748][145]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.47:873][190]LogNet: Browse: /Game/SideScrollerBP/Maps/InfiniteJumper
+[2017.11.11-12.19.47:913][190]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/InfiniteJumper
+[2017.11.11-12.19.47:982][190]Cmd: MEM
+[2017.11.11-12.19.48:027][190]LogMemory: Platform Memory Stats for Windows
+[2017.11.11-12.19.48:027][190]LogMemory: Process Physical Memory: 2680.78 MB used, 2724.65 MB peak
+[2017.11.11-12.19.48:027][190]LogMemory: Process Virtual Memory: 2966.18 MB used, 3064.14 MB peak
+[2017.11.11-12.19.48:027][190]LogMemory: Physical Memory: 5147.83 MB used,  6595.29 MB free, 11743.12 MB total
+[2017.11.11-12.19.48:027][190]LogMemory: Virtual Memory: 3812.18 MB used,  6595.29 MB free, 134217728.00 MB total
+[2017.11.11-12.19.48:027][190]LogMemory: 
+[2017.11.11-12.19.48:028][190]Allocator Stats for TBB: (not implemented)
+[2017.11.11-12.19.48:028][190]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.11-12.19.48:071][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042892s)
+[2017.11.11-12.19.48:073][190]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.11-12.19.48:074][190]LogPlayLevel: PIE: World Init took: (0.002449s)
+[2017.11.11-12.19.48:074][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.046139s)
+[2017.11.11-12.19.48:074][190]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.11-12.19.48:080][190]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.11.11-08.19.48
+[2017.11.11-12.19.48:082][190]LogWorld: Bringing up level for play took: 0.004977
+[2017.11.11-12.19.48:134][190]LogLoad: Took 0.221032 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper)
+[2017.11.11-12.19.50:324][234]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:361][235]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:409][236]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:452][237]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:497][238]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:541][239]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:594][240]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:639][241]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:689][242]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:735][243]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:785][244]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:829][245]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:872][246]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:918][247]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.50:963][248]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:008][249]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:052][250]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:101][251]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:149][252]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:194][253]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:239][254]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:284][255]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:329][256]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:388][257]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:433][258]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:479][259]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:526][260]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:573][261]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:618][262]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:666][263]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:713][264]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:758][265]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:802][266]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:849][267]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:894][268]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:938][269]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.51:984][270]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.52:030][271]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.52:072][272]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.52:119][273]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.52:164][274]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.52:210][275]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.52:254][276]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.52:322][277]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.52:367][278]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.52:412][279]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.52:459][280]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.52:506][281]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.55:593][347]LogNet: Browse: /Game/SideScrollerBP/Maps/InfiniteJumper
+[2017.11.11-12.19.55:635][347]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/InfiniteJumper
+[2017.11.11-12.19.55:682][347]Cmd: MEM
+[2017.11.11-12.19.55:719][347]LogMemory: Platform Memory Stats for Windows
+[2017.11.11-12.19.55:720][347]LogMemory: Process Physical Memory: 2709.93 MB used, 2833.48 MB peak
+[2017.11.11-12.19.55:720][347]LogMemory: Process Virtual Memory: 2951.58 MB used, 3131.92 MB peak
+[2017.11.11-12.19.55:720][347]LogMemory: Physical Memory: 5176.91 MB used,  6566.21 MB free, 11743.12 MB total
+[2017.11.11-12.19.55:720][347]LogMemory: Virtual Memory: 3925.73 MB used,  6566.21 MB free, 134217728.00 MB total
+[2017.11.11-12.19.55:720][347]LogMemory: 
+[2017.11.11-12.19.55:720][347]Allocator Stats for TBB: (not implemented)
+[2017.11.11-12.19.55:720][347]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.11-12.19.55:755][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034858s)
+[2017.11.11-12.19.55:756][347]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.11-12.19.55:757][347]LogPlayLevel: PIE: World Init took: (0.001983s)
+[2017.11.11-12.19.55:757][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.037456s)
+[2017.11.11-12.19.55:757][347]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.11-12.19.55:762][347]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.11.11-08.19.55
+[2017.11.11-12.19.55:764][347]LogWorld: Bringing up level for play took: 0.005194
+[2017.11.11-12.19.55:812][347]LogLoad: Took 0.177265 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper)
+[2017.11.11-12.19.58:432][402]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.58:470][403]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.58:517][404]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.58:562][405]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.58:608][406]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.58:652][407]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.58:699][408]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.58:744][409]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.58:789][410]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.58:838][411]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.58:881][412]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.58:926][413]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.58:971][414]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:017][415]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:061][416]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:105][417]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:149][418]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:194][419]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:239][420]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:283][421]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:328][422]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:373][423]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:418][424]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:462][425]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:506][426]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:551][427]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:595][428]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:639][429]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:685][430]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:729][431]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:774][432]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:821][433]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:866][434]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:911][435]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.19.59:957][436]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:003][437]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:051][438]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:096][439]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:158][440]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:205][441]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:286][442]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:340][443]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:388][444]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:456][445]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:505][446]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:551][447]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:595][448]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:640][449]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:684][450]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:727][451]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:772][452]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:817][453]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:861][454]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:904][455]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:953][456]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.00:999][457]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:043][458]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:087][459]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:131][460]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:176][461]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:221][462]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:267][463]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:310][464]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:360][465]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:406][466]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:451][467]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:497][468]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:543][469]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:588][470]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:632][471]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:678][472]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:722][473]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:768][474]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:815][475]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:861][476]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:909][477]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.01:953][478]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:000][479]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:047][480]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:092][481]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:137][482]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:184][483]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:229][484]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:275][485]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:317][486]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:361][487]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:405][488]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:451][489]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:496][490]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:540][491]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:584][492]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:629][493]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:673][494]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:717][495]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:761][496]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:806][497]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:849][498]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:895][499]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:941][500]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.02:986][501]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:031][502]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:075][503]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:119][504]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:164][505]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:207][506]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:251][507]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:296][508]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:340][509]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:384][510]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:427][511]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:473][512]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:518][513]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:563][514]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:607][515]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:652][516]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:703][517]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:750][518]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:795][519]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:839][520]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:884][521]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:930][522]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.03:975][523]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:020][524]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:065][525]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:110][526]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:154][527]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:199][528]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:243][529]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:289][530]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:333][531]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:379][532]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:424][533]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:468][534]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:514][535]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:559][536]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:604][537]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:648][538]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:693][539]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:737][540]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:781][541]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:825][542]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:868][543]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:914][544]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.04:958][545]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:003][546]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:047][547]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:094][548]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:138][549]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:184][550]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:227][551]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:272][552]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:317][553]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:362][554]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:407][555]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:463][556]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:496][557]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:541][558]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:585][559]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:630][560]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:674][561]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:718][562]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:764][563]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:810][564]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:854][565]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:899][566]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:944][567]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.05:991][568]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:035][569]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:080][570]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:126][571]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:172][572]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:218][573]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:263][574]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:308][575]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:354][576]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:400][577]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:446][578]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:492][579]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:541][580]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:601][581]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:636][582]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:679][583]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:724][584]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:768][585]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:816][586]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:861][587]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:907][588]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:951][589]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.06:996][590]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:041][591]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:084][592]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:128][593]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:173][594]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:216][595]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:261][596]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:307][597]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:349][598]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:394][599]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:439][600]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:484][601]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:528][602]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:573][603]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:617][604]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:661][605]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:707][606]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:749][607]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:796][608]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:842][609]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:886][610]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:929][611]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.07:975][612]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:018][613]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:062][614]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:108][615]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:152][616]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:197][617]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:242][618]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:289][619]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:334][620]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:379][621]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:424][622]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:468][623]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:512][624]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:557][625]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:600][626]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:645][627]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:690][628]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:734][629]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:779][630]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:825][631]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:869][632]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:914][633]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.08:959][634]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:002][635]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:046][636]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:092][637]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:135][638]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:180][639]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:225][640]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:268][641]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:313][642]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:359][643]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:401][644]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:446][645]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:491][646]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:534][647]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:579][648]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:624][649]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:669][650]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:711][651]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:757][652]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:802][653]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:846][654]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:891][655]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:937][656]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.09:981][657]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.10:025][658]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.10:072][659]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.10:116][660]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.10:162][661]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.10:208][662]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.10:255][663]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.10:299][664]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.10:346][665]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] Hello
+[2017.11.11-12.20.12:655][715]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.11-12.20.12:758][715]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.11-12.20.17:696][  1]BlueprintLog: New page: Compile SideScrollerCharacter
+[2017.11.11-12.20.20:159][  1]LogSavePackage: Save=379.46ms
+[2017.11.11-12.20.20:160][  1]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerCharacter4E44A346492223A56BCD01BDB82DB57C.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2017.11.11-12.20.20:173][  1]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2017.11.11-12.20.21:235][ 23]LogSavePackage: Save=367.04ms
+[2017.11.11-12.20.21:235][ 23]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerCharacter34BDCA134C8CEDC620892CBE53C1A4FF.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2017.11.11-12.20.21:238][ 23]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2017.11.11-12.20.23:652][120]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2017.11.11-12.20.31:937][315]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.11.11-12.20.33:270][363]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2017.11.11-12.20.39:216][519]LogSavePackage: Save=541.08ms
+[2017.11.11-12.20.39:216][519]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/InfiniteJumper24B1D6674E6BE2C356F6E1976CCEBA81.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Maps/InfiniteJumper.umap'
+[2017.11.11-12.20.39:234][519]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Maps/InfiniteJumper.umap
+[2017.11.11-12.20.51:684][908]LogSavePackage: Save=48.35ms
+[2017.11.11-12.20.51:684][908]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeSoloLeftC8566BC74BCDE740159B40B956D61DD2.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft.uasset'
+[2017.11.11-12.20.51:693][908]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft.uasset
+[2017.11.11-12.25.46:612][707]Cmd: QUIT_EDITOR
+[2017.11.11-12.25.47:021][707]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.11-12.25.47:021][707]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.11-12.25.47:049][707]LogExit: Preparing to exit.
+[2017.11.11-12.25.47:875][707]LogExit: Editor shut down
+[2017.11.11-12.25.47:887][707]LogExit: Transaction tracking system shut down
+[2017.11.11-12.25.48:039][707]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.11-12.25.48:039][707]LogDirectoryWatcher: A directory notification for 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/' was aborted.
+[2017.11.11-12.25.48:039][707]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.11-12.25.48:039][707]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.11-12.25.48:039][707]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.11-12.25.48:310][707]LogExit: Object subsystem successfully closed.
+[2017.11.11-12.25.48:339][707]LogD3D11RHI: Shutdown
+[2017.11.11-12.25.48:339][707]LogD3D11RHI: CleanupD3DDevice
+[2017.11.11-12.25.49:011][707]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.11-12.25.49:038][707]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2017.11.11-12.25.49:038][707]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2017.11.11-12.25.49:038][707]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.11.11-12.25.49:038][707]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.11.11-12.25.49:038][707]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.11.11-12.25.49:038][707]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.11.11-12.25.49:038][707]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.11-12.25.49:040][707]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.11.11-12.25.49:040][707]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.11.11-12.25.49:040][707]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.11.11-12.25.49:040][707]LogDirectoryWatcher: A directory notification for 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/Collections/' was aborted.
+[2017.11.11-12.25.49:041][707]LogDirectoryWatcher: A directory notification for 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/Developers/kreye/Collections/' was aborted.
+[2017.11.11-12.25.49:041][707]LogDirectoryWatcher: A directory notification for 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/Collections/' was aborted.
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.11.11-12.25.49:041][707]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.11.11-12.25.49:042][707]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.11.11-12.25.49:043][707]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.11.11-12.25.49:644][707]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.11.11-12.25.49:644][707]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.11.11-12.25.49:645][707]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.11.11-12.25.49:646][707]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.11.11-12.25.49:646][707]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.11.11-12.25.49:646][707]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.11.11-12.25.49:646][707]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.11.11-12.25.49:646][707]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.11.11-12.25.49:646][707]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.11.11-12.25.49:699][707]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.11.11-12.25.49:699][707]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.11.11-12.25.49:699][707]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.11.11-12.25.49:699][707]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.11.11-12.25.49:699][707]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.11.11-12.25.49:699][707]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.11.11-12.25.49:699][707]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.11.11-12.25.49:699][707]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.11.11-12.25.49:700][707]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.11.11-12.25.49:700][707]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.11.11-12.25.49:715][707]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.11.11-12.25.49:716][707]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.11.11-12.25.49:717][707]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.11.11-12.25.49:741][707]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.11.11-12.25.49:742][707]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.11.11-12.25.49:742][707]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.11.11-12.25.49:742][707]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.11.11-12.25.49:742][707]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.11.11-12.25.49:742][707]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.11.11-12.25.49:742][707]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.11.11-12.25.49:742][707]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.11.11-12.25.49:742][707]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.11.11-12.25.49:742][707]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.11.11-12.25.49:742][707]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.11.11-12.25.49:742][707]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.11.11-12.25.49:742][707]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.11.11-12.25.49:743][707]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.11.11-12.25.49:743][707]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.11.11-12.25.49:744][707]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.11.11-12.25.49:745][707]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.11-12.25.49:745][707]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.11-12.25.49:745][707]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.11-12.25.49:745][707]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.11-12.25.49:745][707]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.11-12.25.49:745][707]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.11-12.25.49:745][707]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.11-12.25.49:745][707]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.11-12.25.49:846][707]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.11-12.25.49:946][707]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.11-12.25.49:946][707]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.11-12.25.49:946][707]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.11-12.25.49:946][707]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.11-12.25.49:946][707]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.11-12.25.49:946][707]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.11-12.25.49:948][707]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.11-12.25.49:948][707]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.11-12.25.49:948][707]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.11-12.25.49:948][707]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.11-12.25.49:948][707]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.11-12.25.49:948][707]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.11-12.25.49:948][707]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.11-12.25.49:948][707]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.11-12.25.49:948][707]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.11-12.25.49:948][707]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.11-12.25.49:948][707]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.11-12.25.49:948][707]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.11-12.25.49:949][707]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.11-12.25.49:949][707]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.11-12.25.49:949][707]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.11-12.25.49:949][707]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.11-12.25.49:949][707]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.11-12.25.49:949][707]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.11-12.25.49:949][707]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.11-12.25.49:949][707]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.11-12.25.49:949][707]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.11-12.25.49:949][707]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.11-12.25.49:949][707]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.11-12.25.49:949][707]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.11-12.25.49:953][707]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.11.11-12.25.49:954][707]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.11-12.25.49:956][707]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.11-12.25.50:008][707]LogDerivedDataCache: Shutdown
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.11-12.25.50:009][707]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.11-12.25.50:010][707]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.11-12.25.50:010][707]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.11-12.25.50:011][707]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.11-12.25.50:011][707]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.11-12.25.50:011][707]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B204FC491-479B-CFB3-4907-7A85ADD2153B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=3691cf284ca1f1681c3051979cb06f41%7C88057b4134714c0f98d798880975d3e9%7C75c10d2f-5615-4ca6-9c94-8a26968e32be&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.11-12.25.50:025][707]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.11-12.25.50:027][707]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.11-12.25.50:028][707]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.11-12.25.50:028][707]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.11-12.25.50:028][707]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.11-12.25.50:028][707]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.11-12.25.50:028][707]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.11-12.25.50:028][707]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.11-12.25.50:031][707]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.11-12.25.50:032][707]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.11-12.25.50:032][707]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.11-12.25.50:032][707]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.11-12.25.50:032][707]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.11-12.25.50:032][707]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.11-12.25.50:032][707]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.11-12.25.50:032][707]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.11-12.25.50:032][707]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.11-12.25.50:032][707]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.11-12.25.50:032][707]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.11-12.25.50:040][707]LogExit: Exiting.
+[2017.11.11-12.25.50:070][707]Log file closed, 11/11/17 08:25:50

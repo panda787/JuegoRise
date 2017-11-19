@@ -1,0 +1,1487 @@
+﻿Log file open, 11/06/17 21:13:54
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: InfiniteJumperMF
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2085603506) SRandInit(2085603507).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.254563
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.07-01.13.55:871][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.07-01.13.55:871][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.07-01.13.55:952][  0]LogInit: Computer: LAPTOP-FV6L4TLG
+[2017.11.07-01.13.55:952][  0]LogInit: User: kreye
+[2017.11.07-01.13.55:952][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.07-01.13.55:952][  0]LogInit: High frequency timer resolution =2.339357 MHz
+[2017.11.07-01.13.55:953][  0]LogMemory: Memory total: Physical=11.5GB (12GB approx)
+[2017.11.07-01.13.55:953][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.07-01.13.55:953][  0]LogMemory: Process Physical Memory: 277.89 MB used, 277.89 MB peak
+[2017.11.07-01.13.55:953][  0]LogMemory: Process Virtual Memory: 274.39 MB used, 274.39 MB peak
+[2017.11.07-01.13.55:953][  0]LogMemory: Physical Memory: 3725.29 MB used,  8017.83 MB free, 11743.12 MB total
+[2017.11.07-01.13.55:953][  0]LogMemory: Virtual Memory: 668.02 MB used,  8017.83 MB free, 134217728.00 MB total
+[2017.11.07-01.13.56:403][  0]LogInit: Using OS detected language (en-US).
+[2017.11.07-01.13.56:403][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.07-01.13.56:409][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.07-01.13.57:673][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.07-01.13.57:704][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R5 Graphics' (Feature Level 11_0)
+[2017.11.07-01.13.57:704][  0]LogD3D11RHI:       499/0/5871 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.11.07-01.13.57:707][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.07-01.13.57:707][  0]LogD3D11RHI:       0/0/5871 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.07-01.13.57:707][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.07-01.13.57:716][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.07-01.13.57:716][  0]LogD3D11RHI:     GPU DeviceId: 0x9874 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.07-01.13.57:716][  0]LogWindows: EnumDisplayDevices:
+[2017.11.07-01.13.57:717][  0]LogWindows:    0. 'AMD Radeon(TM) R5 Graphics' (P:1 D:1)
+[2017.11.07-01.13.57:717][  0]LogWindows:    1. 'AMD Radeon(TM) R5 Graphics' (P:0 D:0)
+[2017.11.07-01.13.57:718][  0]LogWindows:    2. 'AMD Radeon(TM) R5 Graphics' (P:0 D:0)
+[2017.11.07-01.13.57:718][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.11.07-01.13.57:718][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R5 Graphics
+[2017.11.07-01.13.57:718][  0]LogD3D11RHI:   Driver Version: Crimson 16.6 (internal:16.300.2701.0, unified:16.300.2701.0)
+[2017.11.07-01.13.57:718][  0]LogD3D11RHI:      Driver Date: 8-9-2016
+[2017.11.07-01.13.57:718][  0]LogRHI: Texture pool is 349 MB (70% of 499 MB)
+[2017.11.07-01.13.57:784][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.07-01.13.57:808][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2017.11.07-01.13.57:811][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Intermediate/Shaders/WorkingDirectory/6808/).
+[2017.11.07-01.13.57:812][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kreye/AppData/Local/Temp/UnrealShaderWorkingDir/1A1A91C84E6512E0A20C558945CBEC96/'.
+[2017.11.07-01.13.57:812][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.07-01.14.01:025][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.07-01.14.01:160][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.07-01.14.01:298][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.07-01.14.01:432][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.07-01.14.01:572][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.07-01.14.01:714][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.07-01.14.01:856][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.07-01.14.01:997][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.07-01.14.02:121][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.07-01.14.02:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.07-01.14.02:398][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.07-01.14.02:538][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.07-01.14.02:676][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.07-01.14.02:816][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.07-01.14.02:956][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.07-01.14.03:231][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.07-01.14.03:231][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.07-01.14.03:346][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.07-01.14.03:567][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.07-01.14.03:648][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.07-01.14.03:786][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.07-01.14.03:926][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.07-01.14.04:063][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.07-01.14.04:200][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.07-01.14.04:201][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.07-01.14.05:604][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.07-01.14.05:811][  0]LogDerivedDataCache: Loaded boot cache 0.21s 93MB C:/Users/kreye/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.07-01.14.05:812][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kreye/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.07-01.14.05:812][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.07-01.14.05:812][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.07-01.14.05:812][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.07-01.14.05:812][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.07-01.14.05:845][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.07-01.14.05:859][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kreye/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.07-01.14.05:879][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.07-01.14.05:880][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.07-01.14.05:881][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.07-01.14.05:882][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.07-01.14.06:419][  0]LogAssetRegistry: FAssetRegistry took 0.0316 seconds to start up
+[2017.11.07-01.14.06:731][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.07-01.14.07:072][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.07-01.14.07:864][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.07-01.14.07:987][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.07-01.14.07:987][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.07-01.14.07:987][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.07-01.14.07:987][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.07-01.14.07:987][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.07-01.14.08:769][  0]LogNetVersion: InfiniteJumperMF , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 767604215)
+[2017.11.07-01.14.09:516][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.326992 seconds
+[2017.11.07-01.14.09:528][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.07-01.14.09:528][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.07-01.14.09:528][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.07-01.14.09:733][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.07-01.14.16:220][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.07-01.14.16:316][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.07-01.14.16:318][  0]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1
+[2017.11.07-01.14.16:318][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2017.11.07-01.14.16:318][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2017.11.07-01.14.18:084][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.07-01.14.19:167][  0]SourceControl: Source control is disabled
+[2017.11.07-01.14.19:167][  0]SourceControl: Source control is disabled
+[2017.11.07-01.14.19:302][  0]SourceControl: Source control is disabled
+[2017.11.07-01.14.19:435][  0]SourceControl: Source control is disabled
+[2017.11.07-01.14.21:106][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.07-01.14.21:825][  0]LogOcInput: OculusInput pre-init called
+[2017.11.07-01.14.22:533][  0]LogEngine: Initializing Engine...
+[2017.11.07-01.14.22:537][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.07-01.14.22:963][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.07-01.14.22:964][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.07-01.14.23:371][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-01.14.23:384][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-01.14.23:410][  0]LogInit: FAudioDevice initialized.
+[2017.11.07-01.14.23:688][  0]LogDerivedDataCache: Saved boot cache 0.28s 93MB C:/Users/kreye/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.07-01.14.23:723][  0]LogInit: Texture streaming: Enabled
+[2017.11.07-01.14.24:054][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.07-01.14.24:722][  0]LogInit: Transaction tracking system initialized
+[2017.11.07-01.14.25:625][  0]BlueprintLog: New page: Editor Load
+[2017.11.07-01.14.28:458][  0]LocalizationService: Localization service is disabled
+[2017.11.07-01.14.30:432][  0]LogConsoleResponse: Display: 
+[2017.11.07-01.14.30:895][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.07-01.14.30:895][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.07-01.14.30:895][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.07-01.14.31:068][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/' took 0.05s
+[2017.11.07-01.14.34:086][  0]SourceControl: Source control is disabled
+[2017.11.07-01.14.34:086][  0]Cmd: MAP LOAD FILE="G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Maps/InfiniteJumper.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.07-01.14.34:183][  0]LightingResults: New page: Lighting Build
+[2017.11.07-01.14.34:299][  0]MapCheck: New page: Map Check
+[2017.11.07-01.14.34:299][  0]LightingResults: New page: Lighting Build
+[2017.11.07-01.14.35:483][  0]LogBlueprint: Warning: [HighScoreSaveSlot] 'UserIndex' variable not found. Base class was probably changed.
+[2017.11.07-01.14.37:107][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Steel1'
+[2017.11.07-01.14.37:107][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Steel1' while loading G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/3DModels/Spiked_Log.uasset.
+[2017.11.07-01.14.37:108][  0]LoadErrors: Error: /Game/SideScrollerBP/3DModels/Spiked_Log : Can't find file for asset. /Game/StarterContent/Materials/M_Metal_Steel1
+[2017.11.07-01.14.37:109][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Steel1'
+[2017.11.07-01.14.37:109][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Steel1' while loading G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/3DModels/Spiked_Log.uasset.
+[2017.11.07-01.14.37:109][  0]LoadErrors: Error: /Game/SideScrollerBP/3DModels/Spiked_Log : Can't find file for asset. /Game/StarterContent/Materials/M_Metal_Steel1
+[2017.11.07-01.14.38:070][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Steel1'
+[2017.11.07-01.14.38:070][  0]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Steel1.M_Metal_Steel1 Referenced by Spiked_Log
+[2017.11.07-01.14.38:070][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Steel1' while loading NULL.
+[2017.11.07-01.14.38:070][  0]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Steel1.M_Metal_Steel1 Referenced by Spiked_Log
+[2017.11.07-01.14.38:071][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Steel1'
+[2017.11.07-01.14.38:071][  0]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Steel1.M_Metal_Steel1 Referenced by Spiked_Log
+[2017.11.07-01.14.38:071][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Steel1' while loading NULL.
+[2017.11.07-01.14.38:071][  0]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Steel1.M_Metal_Steel1 Referenced by Spiked_Log
+[2017.11.07-01.14.38:822][  0]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-01.14.38:845][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.07-01.14.39:090][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.07-01.14.39:250][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 159.551ms to complete.
+[2017.11.07-01.14.39:250][  0]LogFileHelpers: Loading map 'InfiniteJumper' took 5.164
+[2017.11.07-01.14.39:498][  0]LogCollectionManager: Loaded 0 collections in 0.003662 seconds
+[2017.11.07-01.14.39:658][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/Collections/' took 0.01s
+[2017.11.07-01.14.39:658][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/Developers/kreye/Collections/' took 0.01s
+[2017.11.07-01.14.39:658][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/Collections/' took 0.01s
+[2017.11.07-01.14.39:658][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.07-01.14.39:676][  0]LogContentBrowser: Native class hierarchy populated in 0.0180 seconds. Added 2386 classes and 500 folders.
+[2017.11.07-01.14.39:867][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2017.11.07-01.14.39:975][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2017.11.07-01.14.40:101][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2017.11.07-01.14.40:144][  0]LogSlate: Took 0.000472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.07-01.14.40:149][  0]LogSlate: Took 0.000430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.07-01.14.40:156][  0]LogSlate: Took 0.000531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.07-01.14.40:356][  0]LogRenderer: Reallocating scene render targets to support 1092x320 Format 10 NumSamples 1 (Frame:1).
+[2017.11.07-01.14.41:510][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0031 seconds. Added 1 classes and 2 folders.
+[2017.11.07-01.14.41:511][  0]LogLoad: (Engine Initialization) Total time: 50.65 seconds
+[2017.11.07-01.14.41:511][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.07-01.14.41:511][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.07-01.14.41:875][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.07-01.14.42:050][  0]LogRenderer: Reallocating scene render targets to support 1092x372 Format 10 NumSamples 1 (Frame:2).
+[2017.11.07-01.14.42:050][  0]LogSlate: Took 0.003731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-01.14.43:195][  4]LogAssetRegistry: Asset discovery search completed in 36.7983 seconds
+[2017.11.07-01.14.43:199][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.07-01.14.43:199][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000123 seconds (updated 0 objects)
+[2017.11.07-01.15.32:446][910]LogSlate: Took 0.000507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-01.15.33:209][910]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.07-01.15.34:591][911]LogRenderer: Reallocating scene render targets to support 1092x652 Format 10 NumSamples 1 (Frame:1).
+[2017.11.07-01.15.41:589][ 55]LogHttp: Warning: 00000297819E0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.15.41:589][ 55]LogHttp: Warning: 00000297819E0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.15.41:589][ 55]LogHttp: Warning: 00000297819E0400: libcurl info message cache 1 (Closing connection 0)
+[2017.11.07-01.15.58:700][471]LogSlate: Took 0.000482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-01.16.11:844][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/3DModels/Spiked_Log" FILE="G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/3DModels/Spiked_Log.uasset" SILENT=true
+[2017.11.07-01.16.11:989][153]LogSavePackage: Save=45.48ms
+[2017.11.07-01.16.11:990][153]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/Spiked_Log491C1D5940D10B49EFFD13B428AC6D07.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/3DModels/Spiked_Log.uasset'
+[2017.11.07-01.16.12:008][153]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/3DModels/Spiked_Log.uasset
+[2017.11.07-01.16.34:918][855]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:918][855]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:918][855]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:918][855]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:919][855]LogBlueprint: Warning: [BP_MainMenu] 'NextLevelSpeedUp' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:919][855]LogBlueprint: Warning: [BP_MainMenu] 'NextLevelSpeedUp' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:919][855]LogBlueprint: Warning: [BP_MainMenu] 'NextLevelSpeedUp' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:919][855]LogBlueprint: Warning: [BP_MainMenu] 'NextLevelSpeedUp' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:920][855]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:920][855]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:920][855]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:920][855]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:921][855]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:921][855]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:921][855]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:921][855]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.16.34:930][855]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedStart" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedStart
+[2017.11.07-01.16.34:930][855]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedStart" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedStart
+[2017.11.07-01.16.34:930][855]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedIncrements" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedIncrements
+[2017.11.07-01.16.34:931][855]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedIncrements" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedIncrements
+[2017.11.07-01.16.34:931][855]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "NextLevelSpeedUp" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set NextLevelSpeedUp
+[2017.11.07-01.16.34:931][855]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "NextLevelSpeedUp" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set NextLevelSpeedUp
+[2017.11.07-01.16.34:932][855]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.16.34:932][855]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.16.34:935][855]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.16.34:935][855]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.16.34:935][855]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Start  could not be found
+[2017.11.07-01.16.34:936][855]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Start  could not be found
+[2017.11.07-01.16.34:936][855]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Increments  could not be found
+[2017.11.07-01.16.34:936][855]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Next Level Speed Up  could not be found
+[2017.11.07-01.16.34:937][855]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Increments  could not be found
+[2017.11.07-01.16.34:937][855]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Next Level Speed Up  could not be found
+[2017.11.07-01.16.34:942][855]LogBlueprint: Warning: [Compiler BP_MainMenu] [0164.08] Compile of BP_MainMenu failed. 8 Fatal Issue(s) 8 Warning(s) [in 28 ms] (/Game/SideScrollerBP/Blueprints/HUBs/BP_MainMenu.BP_MainMenu)
+[2017.11.07-01.16.36:680][855]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0040 seconds. Added 113 classes and 0 folders.
+[2017.11.07-01.16.39:272][855]LogSlate: Took 0.029130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.07-01.16.51:804][ 69]LogSlate: Took 0.000530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.07-01.17.21:681][152]LogTemp: Dropped PisosAGenerar on Category Flooring
+[2017.11.07-01.17.23:533][302]LogTemp: Dropped EspacioAGenerar on Category Flooring
+[2017.11.07-01.17.25:636][488]LogTemp: Dropped Counter on Category Flooring
+[2017.11.07-01.17.35:285][378]LogTemp: Dropped PwrUpPositionProbability on Category Power Up
+[2017.11.07-01.17.36:811][491]LogTemp: Dropped PowerUpPosEnPiso on Category Power Up
+[2017.11.07-01.17.38:313][610]LogTemp: Dropped PowerUpTextPopUp on Category Power Up
+[2017.11.07-01.17.41:058][886]BlueprintLog: New page: Compile SideScrollerGameMode
+[2017.11.07-01.17.41:421][886]LogBlueprint: Warning: [BP_MainMenu] 'NextLevelSpeedUp' variable not found. Base class was probably changed.
+[2017.11.07-01.17.41:421][886]LogBlueprint: Warning: [BP_MainMenu] 'NextLevelSpeedUp' variable not found. Base class was probably changed.
+[2017.11.07-01.17.41:421][886]LogBlueprint: Warning: [BP_MainMenu] 'NextLevelSpeedUp' variable not found. Base class was probably changed.
+[2017.11.07-01.17.41:421][886]LogBlueprint: Warning: [BP_MainMenu] 'NextLevelSpeedUp' variable not found. Base class was probably changed.
+[2017.11.07-01.17.41:422][886]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.17.41:422][886]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.17.41:422][886]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.17.41:422][886]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.17.41:422][886]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.17.41:422][886]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.17.41:422][886]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.17.41:422][886]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.17.41:478][886]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedStart" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedStart
+[2017.11.07-01.17.41:478][886]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedStart" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedStart
+[2017.11.07-01.17.41:478][886]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedIncrements" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedIncrements
+[2017.11.07-01.17.41:478][886]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedIncrements" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedIncrements
+[2017.11.07-01.17.41:478][886]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "NextLevelSpeedUp" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set NextLevelSpeedUp
+[2017.11.07-01.17.41:479][886]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "NextLevelSpeedUp" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set NextLevelSpeedUp
+[2017.11.07-01.17.41:479][886]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.17.41:479][886]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.17.41:497][886]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.17.41:497][886]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.17.41:497][886]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Start  could not be found
+[2017.11.07-01.17.41:497][886]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Start  could not be found
+[2017.11.07-01.17.41:498][886]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Increments  could not be found
+[2017.11.07-01.17.41:498][886]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Next Level Speed Up  could not be found
+[2017.11.07-01.17.41:498][886]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Increments  could not be found
+[2017.11.07-01.17.41:498][886]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Next Level Speed Up  could not be found
+[2017.11.07-01.17.41:534][886]LogBlueprint: Warning: [Compiler BP_MainMenu] [0230.67] Compile of BP_MainMenu failed. 8 Fatal Issue(s) 8 Warning(s) [in 461 ms] (/Game/SideScrollerBP/Blueprints/HUBs/BP_MainMenu.BP_MainMenu)
+[2017.11.07-01.17.42:060][892]LogHttp: Warning: 000002979F788D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.17.42:060][892]LogHttp: Warning: 000002979F788D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.17.42:060][892]LogHttp: Warning: 000002979F788D00: libcurl info message cache 1 (Closing connection 1)
+[2017.11.07-01.17.42:713][943]LogSavePackage: Save=126.39ms
+[2017.11.07-01.17.42:714][943]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerGameMode6CF5B7394491C18942A5598CFEA2B727.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2017.11.07-01.17.42:724][943]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset
+[2017.11.07-01.17.52:221][386]LogSlate: Took 0.140009 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.07-01.18.23:246][567]BlueprintLog: New page: Compile SideScrollerGameMode
+[2017.11.07-01.18.23:367][567]LogBlueprint: Warning: [BP_MainMenu] 'NextLevelSpeedUp' variable not found. Base class was probably changed.
+[2017.11.07-01.18.23:368][567]LogBlueprint: Warning: [BP_MainMenu] 'NextLevelSpeedUp' variable not found. Base class was probably changed.
+[2017.11.07-01.18.23:368][567]LogBlueprint: Warning: [BP_MainMenu] 'NextLevelSpeedUp' variable not found. Base class was probably changed.
+[2017.11.07-01.18.23:368][567]LogBlueprint: Warning: [BP_MainMenu] 'NextLevelSpeedUp' variable not found. Base class was probably changed.
+[2017.11.07-01.18.23:368][567]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.18.23:368][567]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.18.23:368][567]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.18.23:368][567]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.18.23:368][567]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.18.23:368][567]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.18.23:368][567]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.18.23:368][567]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.18.23:699][567]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedStart" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedStart
+[2017.11.07-01.18.23:699][567]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedStart" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedStart
+[2017.11.07-01.18.23:699][567]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedIncrements" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedIncrements
+[2017.11.07-01.18.23:699][567]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedIncrements" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedIncrements
+[2017.11.07-01.18.23:700][567]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "NextLevelSpeedUp" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set NextLevelSpeedUp
+[2017.11.07-01.18.23:700][567]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "NextLevelSpeedUp" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set NextLevelSpeedUp
+[2017.11.07-01.18.23:700][567]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.18.23:700][567]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.18.23:719][567]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.18.23:719][567]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.18.23:719][567]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Start  could not be found
+[2017.11.07-01.18.23:719][567]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Start  could not be found
+[2017.11.07-01.18.23:719][567]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Increments  could not be found
+[2017.11.07-01.18.23:719][567]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Next Level Speed Up  could not be found
+[2017.11.07-01.18.23:720][567]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Increments  could not be found
+[2017.11.07-01.18.23:720][567]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Next Level Speed Up  could not be found
+[2017.11.07-01.18.23:757][567]LogBlueprint: Warning: [Compiler BP_MainMenu] [0272.89] Compile of BP_MainMenu failed. 8 Fatal Issue(s) 8 Warning(s) [in 495 ms] (/Game/SideScrollerBP/Blueprints/HUBs/BP_MainMenu.BP_MainMenu)
+[2017.11.07-01.18.25:128][618]LogSavePackage: Save=324.50ms
+[2017.11.07-01.18.25:129][618]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerGameMode730B76E14DC69064115BE29124B8EAF6.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2017.11.07-01.18.25:141][618]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset
+[2017.11.07-01.18.50:191][ 80]BlueprintLog: New page: Compile SideScrollerGameMode
+[2017.11.07-01.18.50:309][ 80]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.18.50:309][ 80]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.18.50:310][ 80]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.18.50:310][ 80]LogBlueprint: Warning: [BP_MainMenu] 'SpeedIncrements' variable not found. Base class was probably changed.
+[2017.11.07-01.18.50:310][ 80]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.18.50:310][ 80]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.18.50:310][ 80]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.18.50:310][ 80]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.18.50:367][ 80]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedStart" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedStart
+[2017.11.07-01.18.50:368][ 80]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedStart" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedStart
+[2017.11.07-01.18.50:368][ 80]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedIncrements" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedIncrements
+[2017.11.07-01.18.50:368][ 80]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedIncrements" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedIncrements
+[2017.11.07-01.18.50:368][ 80]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.18.50:368][ 80]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.18.50:386][ 80]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.18.50:386][ 80]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.18.50:386][ 80]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Start  could not be found
+[2017.11.07-01.18.50:386][ 80]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Start  could not be found
+[2017.11.07-01.18.50:386][ 80]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Increments  could not be found
+[2017.11.07-01.18.50:387][ 80]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Increments  could not be found
+[2017.11.07-01.18.50:425][ 80]LogBlueprint: Warning: [Compiler BP_MainMenu] [0299.56] Compile of BP_MainMenu failed. 6 Fatal Issue(s) 6 Warning(s) [in 219 ms] (/Game/SideScrollerBP/Blueprints/HUBs/BP_MainMenu.BP_MainMenu)
+[2017.11.07-01.18.51:621][112]LogSavePackage: Save=103.87ms
+[2017.11.07-01.18.51:621][112]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerGameMode37E806204ED276BFC27F3B9389EC0D98.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2017.11.07-01.18.51:632][112]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset
+[2017.11.07-01.18.53:514][224]LogTemp: Dropped NextLevelSpeedUp on Category Settings
+[2017.11.07-01.19.32:300][  6]BlueprintLog: New page: Compile SideScrollerGameMode
+[2017.11.07-01.19.32:428][  6]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.19.32:428][  6]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.19.32:428][  6]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.19.32:428][  6]LogBlueprint: Warning: [BP_MainMenu] 'SpeedStart' variable not found. Base class was probably changed.
+[2017.11.07-01.19.32:482][  6]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedStart" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedStart
+[2017.11.07-01.19.32:482][  6]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "SpeedStart" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set SpeedStart
+[2017.11.07-01.19.32:482][  6]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.19.32:482][  6]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.19.32:501][  6]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.19.32:501][  6]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.19.32:501][  6]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Start  could not be found
+[2017.11.07-01.19.32:501][  6]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Speed Start  could not be found
+[2017.11.07-01.19.32:539][  6]LogBlueprint: Warning: [Compiler BP_MainMenu] [0341.68] Compile of BP_MainMenu failed. 4 Fatal Issue(s) 4 Warning(s) [in 223 ms] (/Game/SideScrollerBP/Blueprints/HUBs/BP_MainMenu.BP_MainMenu)
+[2017.11.07-01.19.35:024][183]LogSavePackage: Save=106.17ms
+[2017.11.07-01.19.35:024][183]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerGameMode3D42CBCB4FA0E3B798AAAEB7537AC299.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2017.11.07-01.19.35:034][183]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset
+[2017.11.07-01.19.37:775][422]LogTemp: Dropped SpeedIncrements on Category Settings
+[2017.11.07-01.19.42:609][600]LogHttp: Warning: 0000029780CA8100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.19.42:609][600]LogHttp: Warning: 0000029780CA8100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.19.42:611][600]LogHttp: Warning: 0000029780CA8100: libcurl info message cache 1 (Closing connection 2)
+[2017.11.07-01.20.01:142][472]BlueprintLog: New page: Compile SideScrollerGameMode
+[2017.11.07-01.20.01:313][472]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.20.01:313][472]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.20.01:332][472]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.20.01:332][472]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.20.01:372][472]LogBlueprint: Warning: [Compiler BP_MainMenu] [0370.51] Compile of BP_MainMenu failed. 2 Fatal Issue(s) 2 Warning(s) [in 217 ms] (/Game/SideScrollerBP/Blueprints/HUBs/BP_MainMenu.BP_MainMenu)
+[2017.11.07-01.20.03:341][590]LogSavePackage: Save=110.36ms
+[2017.11.07-01.20.03:341][590]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerGameMode16829C354F240B173B6BA0833705C39C.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2017.11.07-01.20.03:350][590]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset
+[2017.11.07-01.20.07:864][ 20]LogTemp: Dropped SpeedStart on Category Settings
+[2017.11.07-01.20.10:828][268]BlueprintLog: New page: Compile SideScrollerGameMode
+[2017.11.07-01.20.11:119][268]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.20.11:120][268]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.20.11:148][268]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.20.11:149][268]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.20.11:212][268]LogBlueprint: Warning: [Compiler BP_MainMenu] [0380.35] Compile of BP_MainMenu failed. 2 Fatal Issue(s) 2 Warning(s) [in 361 ms] (/Game/SideScrollerBP/Blueprints/HUBs/BP_MainMenu.BP_MainMenu)
+[2017.11.07-01.20.12:391][320]LogSavePackage: Save=126.60ms
+[2017.11.07-01.20.12:391][320]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerGameMode68AAAD234EE2C02DBC39F5B7633B948F.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2017.11.07-01.20.12:401][320]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset
+[2017.11.07-01.20.30:888][551]LogSavePackage: Save=124.76ms
+[2017.11.07-01.20.30:888][551]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerGameMode6F20D40B49F7835308929B84822FE2E3.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2017.11.07-01.20.30:892][551]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset
+[2017.11.07-01.21.27:266][372]BlueprintLog: New page: Compile SpikeLog
+[2017.11.07-01.21.27:660][372]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.21.27:660][372]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.21.27:660][372]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.21.27:660][372]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.21.27:779][372]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.21.27:779][372]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.21.27:794][372]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.21.27:795][372]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.21.27:820][372]LogBlueprint: Warning: [Compiler BP_MainMenu] [0456.96] Compile of BP_MainMenu failed. 2 Fatal Issue(s) 2 Warning(s) [in 516 ms] (/Game/SideScrollerBP/Blueprints/HUBs/BP_MainMenu.BP_MainMenu)
+[2017.11.07-01.21.29:205][372]LogSavePackage: Save=253.04ms
+[2017.11.07-01.21.29:205][372]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeLogC5B0E7C2450AE317B4F2B2AC0828B47C.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.11.07-01.21.29:210][372]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.11.07-01.21.42:639][  3]LogHttp: Warning: 00000297A1CBA500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.21.42:639][  3]LogHttp: Warning: 00000297A1CBA500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.21.42:639][  3]LogHttp: Warning: 00000297A1CBA500: libcurl info message cache 1 (Closing connection 3)
+[2017.11.07-01.21.58:118][723]LogTemp: Dropped NextSpeedUp on Category Speed Up
+[2017.11.07-01.22.00:067][796]LogTemp: Dropped AddSpeed on Category Speed Up
+[2017.11.07-01.23.42:687][390]LogHttp: Warning: 00000297C0B3BA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.23.42:687][390]LogHttp: Warning: 00000297C0B3BA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.23.42:687][390]LogHttp: Warning: 00000297C0B3BA00: libcurl info message cache 1 (Closing connection 4)
+[2017.11.07-01.24.44:296][317]BlueprintLog: New page: Compile SpikeLog
+[2017.11.07-01.24.44:676][317]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.24.44:676][317]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.24.44:676][317]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.24.44:676][317]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.24.44:826][317]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.24.44:826][317]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.24.44:841][317]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.24.44:841][317]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.24.44:867][317]LogBlueprint: Warning: [Compiler BP_MainMenu] [0654.00] Compile of BP_MainMenu failed. 2 Fatal Issue(s) 2 Warning(s) [in 546 ms] (/Game/SideScrollerBP/Blueprints/HUBs/BP_MainMenu.BP_MainMenu)
+[2017.11.07-01.24.48:057][354]LogSavePackage: Save=211.00ms
+[2017.11.07-01.24.48:057][354]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeLogB296DCAA4A547495F385E18EC45AA036.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.11.07-01.24.48:067][354]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.11.07-01.25.14:114][511]LogSavePackage: Save=713.39ms
+[2017.11.07-01.25.14:114][511]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/InfiniteJumper_Auto18E77FDF94FA22B2D0BEEF1A3BC5409E5.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/Autosaves/Game/SideScrollerBP/Maps/InfiniteJumper_Auto1.umap'
+[2017.11.07-01.25.14:118][511]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/Autosaves/Game/SideScrollerBP/Maps/InfiniteJumper_Auto1.umap
+[2017.11.07-01.25.14:144][511]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/InfiniteJumper' took 0.919
+[2017.11.07-01.25.14:144][511]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.919
+[2017.11.07-01.25.42:724][701]LogHttp: Warning: 00000297BA4F0700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.25.42:724][701]LogHttp: Warning: 00000297BA4F0700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.25.42:724][701]LogHttp: Warning: 00000297BA4F0700: libcurl info message cache 1 (Closing connection 5)
+[2017.11.07-01.26.01:659][427]LogSavePackage: Save=213.88ms
+[2017.11.07-01.26.01:659][427]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeLog2ACCFDB24801300FC1BC88AB5B340AD5.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.11.07-01.26.01:668][427]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.11.07-01.26.02:479][427]LogSavePackage: Save=561.84ms
+[2017.11.07-01.26.02:479][427]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/InfiniteJumper0FE630BA4DA6BE1876C36AB8DA198DE4.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Maps/InfiniteJumper.umap'
+[2017.11.07-01.26.02:492][427]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Maps/InfiniteJumper.umap
+[2017.11.07-01.26.02:609][427]LogFileHelpers: Saving map 'InfiniteJumper' took 0.935
+[2017.11.07-01.27.42:216][706]LogTemp: Dropped Location on Category Location
+[2017.11.07-01.27.42:762][712]LogHttp: Warning: 00000297AA4C2C80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.27.42:762][712]LogHttp: Warning: 00000297AA4C2C80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.27.42:762][712]LogHttp: Warning: 00000297AA4C2C80: libcurl info message cache 1 (Closing connection 6)
+[2017.11.07-01.28.17:830][691]LogSavePackage: Save=228.51ms
+[2017.11.07-01.28.17:832][691]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeLog72726C9E433CE1B6479955A465E974E7.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.11.07-01.28.17:845][691]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.11.07-01.28.18:836][691]LogSavePackage: Save=570.31ms
+[2017.11.07-01.28.18:836][691]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/InfiniteJumper1A0FB6AE4D040232C84A7F908E7F8D39.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Maps/InfiniteJumper.umap'
+[2017.11.07-01.28.18:849][691]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Maps/InfiniteJumper.umap
+[2017.11.07-01.28.19:029][691]LogFileHelpers: Saving map 'InfiniteJumper' took 1.179
+[2017.11.07-01.29.36:052][396]BlueprintLog: New page: Compile SpikeLog
+[2017.11.07-01.29.36:448][396]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.29.36:448][396]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.29.36:448][396]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.29.36:448][396]LogBlueprint: Warning: [BP_MainMenu] 'InitialSpeed' variable not found. Base class was probably changed.
+[2017.11.07-01.29.36:571][396]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.29.36:571][396]LogBlueprint: Warning: [Compiler BP_MainMenu] Could not find a variable named "InitialSpeed" in 'SpikeLog_C'.
+Make sure 'SpikeLog_C' has been compiled for  Set InitialSpeed
+[2017.11.07-01.29.36:588][396]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.29.36:588][396]LogBlueprint: Error: [Compiler BP_MainMenu] The property associated with  Initial Speed  could not be found
+[2017.11.07-01.29.36:615][396]LogBlueprint: Warning: [Compiler BP_MainMenu] [0945.75] Compile of BP_MainMenu failed. 2 Fatal Issue(s) 2 Warning(s) [in 525 ms] (/Game/SideScrollerBP/Blueprints/HUBs/BP_MainMenu.BP_MainMenu)
+[2017.11.07-01.29.38:439][410]LogSavePackage: Save=221.56ms
+[2017.11.07-01.29.38:439][410]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeLogC54C4BE24BDA188D45F15A9019839ABB.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.11.07-01.29.38:448][410]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.11.07-01.29.42:798][567]LogHttp: Warning: 00000297A9C9BD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.29.42:798][567]LogHttp: Warning: 00000297A9C9BD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.29.42:798][567]LogHttp: Warning: 00000297A9C9BD00: libcurl info message cache 1 (Closing connection 7)
+[2017.11.07-01.30.47:646][639]BlueprintLog: New page: Compile SpikeLog
+[2017.11.07-01.31.42:830][324]LogHttp: Warning: 000002979F424A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.31.42:831][324]LogHttp: Warning: 000002979F424A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.31.42:831][324]LogHttp: Warning: 000002979F424A00: libcurl info message cache 1 (Closing connection 8)
+[2017.11.07-01.33.42:928][334]LogHttp: Warning: 00000297AF593B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.33.42:929][334]LogHttp: Warning: 00000297AF593B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.33.42:929][334]LogHttp: Warning: 00000297AF593B80: libcurl info message cache 1 (Closing connection 9)
+[2017.11.07-01.35.05:685][773]LogTemp: Dropped ISCounter on Category Settings
+[2017.11.07-01.35.08:585][847]BlueprintLog: New page: Compile SpikeLog
+[2017.11.07-01.35.12:555][865]LogSavePackage: Save=224.89ms
+[2017.11.07-01.35.12:555][865]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeLogA8104F824F985FA2D27276AF8A28C60C.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.11.07-01.35.12:566][865]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.11.07-01.35.38:240][623]BlueprintLog: New page: Compile SpikeLog
+[2017.11.07-01.35.38:501][623]LogClass: Warning: Type mismatch in ISOnce of SpikeLog_C - Previous (FloatProperty) Current(IntProperty) for package:  FObjectReader
+[2017.11.07-01.35.38:501][623]LogBlueprint: Warning: [Compiler SpikeLog] Can't parse default value '0.000000' for  <None> . Property: ISOnce.
+[2017.11.07-01.35.39:248][623]LogBlueprint: Warning: [Compiler SpikeLog] [1308.39] Compile of SpikeLog successful, but with 1 Warning(s) [in 1,007 ms] (/Game/SideScrollerBP/Blueprints/Spikes/SpikeLog.SpikeLog)
+[2017.11.07-01.35.40:237][642]LogSavePackage: Save=208.71ms
+[2017.11.07-01.35.40:237][642]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeLog9EEB34244138F2747D8C9EBF7D578D36.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.11.07-01.35.40:246][642]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.11.07-01.35.42:992][723]LogHttp: Warning: 00000297C9358D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.35.42:992][723]LogHttp: Warning: 00000297C9358D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.35.42:992][723]LogHttp: Warning: 00000297C9358D00: libcurl info message cache 1 (Closing connection 10)
+[2017.11.07-01.36.39:660][143]BlueprintLog: New page: Compile SpikeLog
+[2017.11.07-01.36.42:243][168]LogSavePackage: Save=312.86ms
+[2017.11.07-01.36.42:245][168]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeLog6EC4E0704BBDD343B02F6D8A877D0CEB.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.11.07-01.36.42:258][168]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.11.07-01.37.25:114][503]BlueprintLog: New page: Compile SpikeLog
+[2017.11.07-01.37.27:443][524]LogSavePackage: Save=215.08ms
+[2017.11.07-01.37.27:443][524]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeLogDF1F66AB4FB70D72281D599458ECAA0B.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.11.07-01.37.27:453][524]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.11.07-01.37.43:256][848]LogHttp: Warning: 00000297B570A980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.37.43:257][848]LogHttp: Warning: 00000297B570A980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.37.43:257][848]LogHttp: Warning: 00000297B570A980: libcurl info message cache 1 (Closing connection 11)
+[2017.11.07-01.39.43:321][930]LogHttp: Warning: 00000297B7A1DD80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.39.43:321][930]LogHttp: Warning: 00000297B7A1DD80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.39.43:321][930]LogHttp: Warning: 00000297B7A1DD80: libcurl info message cache 1 (Closing connection 12)
+[2017.11.07-01.41.42:994][168]LogEditorTransaction: Undo Move Node
+[2017.11.07-01.41.43:392][171]LogHttp: Warning: 00000297C64B3880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.41.43:392][171]LogHttp: Warning: 00000297C64B3880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.41.43:392][171]LogHttp: Warning: 00000297C64B3880: libcurl info message cache 1 (Closing connection 13)
+[2017.11.07-01.43.30:755][758]BlueprintLog: New page: Compile SpikeLog
+[2017.11.07-01.43.36:050][771]LogSavePackage: Save=420.13ms
+[2017.11.07-01.43.36:050][771]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeLog78F42F584FDE93669EEFDD9DF5EF5DD2.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.11.07-01.43.36:064][771]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.11.07-01.43.43:744][950]LogHttp: Warning: 00000297ACB3E200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.43.43:744][950]LogHttp: Warning: 00000297ACB3E200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.43.43:744][950]LogHttp: Warning: 00000297ACB3E200: libcurl info message cache 1 (Closing connection 14)
+[2017.11.07-01.45.44:171][518]LogHttp: Warning: 00000297A8243280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.45.44:171][518]LogHttp: Warning: 00000297A8243280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.45.44:171][518]LogHttp: Warning: 00000297A8243280: libcurl info message cache 1 (Closing connection 15)
+[2017.11.07-01.47.44:250][253]LogHttp: Warning: 00000297C4307400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.47.44:250][253]LogHttp: Warning: 00000297C4307400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.47.44:250][253]LogHttp: Warning: 00000297C4307400: libcurl info message cache 1 (Closing connection 16)
+[2017.11.07-01.49.44:299][122]LogHttp: Warning: 000002982FB97E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.49.44:299][122]LogHttp: Warning: 000002982FB97E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.49.44:299][122]LogHttp: Warning: 000002982FB97E80: libcurl info message cache 1 (Closing connection 17)
+[2017.11.07-01.51.23:675][234]BlueprintLog: New page: Compile SpikeLog
+[2017.11.07-01.51.28:456][249]LogSavePackage: Save=274.57ms
+[2017.11.07-01.51.28:456][249]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeLogFE0B28D147F7DFADB962A9A5DD2705C2.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.11.07-01.51.28:466][249]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.11.07-01.51.35:958][432]BlueprintLog: New page: Compile BP_MainMenu
+[2017.11.07-01.51.37:292][460]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-01.51.37:570][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.51.37:570][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-01.51.37:572][460]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 5:51:37 PM)
+[2017.11.07-01.51.37:573][460]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-01.51.37:609][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036534s)
+[2017.11.07-01.51.37:612][460]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-01.51.37:612][460]LogPlayLevel: PIE: World Init took: (0.002791s)
+[2017.11.07-01.51.37:613][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.040718s)
+[2017.11.07-01.51.37:685][460]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-01.51.37:713][460]LogInit: FAudioDevice initialized.
+[2017.11.07-01.51.37:775][460]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-01.51.37:781][460]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.11.06-21.51.37
+[2017.11.07-01.51.37:784][460]LogWorld: Bringing up level for play took: 0.006594
+[2017.11.07-01.51.37:964][460]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0038 seconds. Added 11 classes and 0 folders.
+[2017.11.07-01.51.38:048][460]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 0.293
+[2017.11.07-01.51.38:050][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.51.38:189][460]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.11.07-01.51.41:019][502]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.51.41:139][502]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.51.44:779][544]LogHttp: Warning: 00000298384EFD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.51.44:779][544]LogHttp: Warning: 00000298384EFD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.51.44:780][544]LogHttp: Warning: 00000298384EFD00: libcurl info message cache 1 (Closing connection 18)
+[2017.11.07-01.51.50:610][574]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.07-01.52.44:799][595]BlueprintLog: New page: Compile SideScrollerGameMode
+[2017.11.07-01.52.47:248][644]LogSavePackage: Save=113.52ms
+[2017.11.07-01.52.47:250][644]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerGameModeCC1987E748A699842254EA9563E2BAE8.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2017.11.07-01.52.47:261][644]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset
+[2017.11.07-01.52.47:923][697]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-01.52.47:986][697]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.52.47:987][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-01.52.47:987][697]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 5:52:47 PM)
+[2017.11.07-01.52.47:987][697]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-01.52.48:021][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033655s)
+[2017.11.07-01.52.48:023][697]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-01.52.48:023][697]LogPlayLevel: PIE: World Init took: (0.002100s)
+[2017.11.07-01.52.48:025][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.037215s)
+[2017.11.07-01.52.48:096][697]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-01.52.48:116][697]LogInit: FAudioDevice initialized.
+[2017.11.07-01.52.48:174][697]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-01.52.48:179][697]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.11.06-21.52.48
+[2017.11.07-01.52.48:181][697]LogWorld: Bringing up level for play took: 0.005789
+[2017.11.07-01.52.48:239][697]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 0.484
+[2017.11.07-01.52.48:240][697]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.52.56:989][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.52.57:097][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.53.12:543][793]BlueprintLog: New page: Compile SideScrollerGameMode
+[2017.11.07-01.53.15:384][912]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-01.53.15:439][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.53.15:439][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-01.53.15:440][912]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 5:53:15 PM)
+[2017.11.07-01.53.15:440][912]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-01.53.15:474][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034681s)
+[2017.11.07-01.53.15:477][912]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-01.53.15:477][912]LogPlayLevel: PIE: World Init took: (0.002605s)
+[2017.11.07-01.53.15:478][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.038676s)
+[2017.11.07-01.53.15:532][912]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-01.53.15:552][912]LogInit: FAudioDevice initialized.
+[2017.11.07-01.53.15:601][912]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-01.53.15:607][912]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.11.06-21.53.15
+[2017.11.07-01.53.15:610][912]LogWorld: Bringing up level for play took: 0.007698
+[2017.11.07-01.53.15:679][912]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper -0.075
+[2017.11.07-01.53.15:681][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.53.44:856][544]LogHttp: Warning: 0000029835B0FD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.53.44:856][544]LogHttp: Warning: 0000029835B0FD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.53.44:857][544]LogHttp: Warning: 0000029835B0FD00: libcurl info message cache 1 (Closing connection 19)
+[2017.11.07-01.54.27:501][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.54.27:880][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.55.44:929][510]LogHttp: Warning: 0000029834056680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.55.44:929][510]LogHttp: Warning: 0000029834056680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.55.44:929][510]LogHttp: Warning: 0000029834056680: libcurl info message cache 1 (Closing connection 20)
+[2017.11.07-01.56.42:218][861]BlueprintLog: New page: Compile SpikeLog
+[2017.11.07-01.56.42:785][861]LogBlueprint: Error: [Compiler SpikeLog] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.07-01.56.43:498][861]LogBlueprint: Warning: [Compiler SpikeLog] [2572.63] Compile of SpikeLog failed. 1 Fatal Issue(s) 0 Warning(s) [in 1,279 ms] (/Game/SideScrollerBP/Blueprints/Spikes/SpikeLog.SpikeLog)
+[2017.11.07-01.57.11:646][718]BlueprintLog: New page: Compile SpikeLog
+[2017.11.07-01.57.13:183][764]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-01.57.13:240][764]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.57.13:240][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-01.57.13:240][764]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 5:57:13 PM)
+[2017.11.07-01.57.13:241][764]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-01.57.13:285][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044007s)
+[2017.11.07-01.57.13:287][764]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-01.57.13:288][764]LogPlayLevel: PIE: World Init took: (0.002759s)
+[2017.11.07-01.57.13:289][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.048337s)
+[2017.11.07-01.57.13:359][764]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-01.57.13:380][764]LogInit: FAudioDevice initialized.
+[2017.11.07-01.57.13:432][764]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-01.57.13:438][764]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.11.06-21.57.13
+[2017.11.07-01.57.13:441][764]LogWorld: Bringing up level for play took: 0.007096
+[2017.11.07-01.57.13:499][764]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper -0.255
+[2017.11.07-01.57.13:501][764]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.57.44:991][453]LogHttp: Warning: 000002983408CD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.57.44:991][453]LogHttp: Warning: 000002983408CD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.57.44:992][453]LogHttp: Warning: 000002983408CD00: libcurl info message cache 1 (Closing connection 21)
+[2017.11.07-01.58.32:791][504]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.58.33:196][504]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-01.58.35:297][634]BlueprintLog: New page: Compile SpikeLog
+[2017.11.07-01.58.37:135][634]LogSavePackage: Save=331.34ms
+[2017.11.07-01.58.37:135][634]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeLog892B60D74E427888B0601E958B42D9B9.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.11.07-01.58.37:146][634]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.11.07-01.58.37:942][659]LogSavePackage: Save=295.08ms
+[2017.11.07-01.58.37:942][659]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SpikeLog2D622464424F18933ACDCEB458546923.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.11.07-01.58.37:947][659]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.11.07-01.59.18:734][760]LogSavePackage: Save=135.14ms
+[2017.11.07-01.59.18:734][760]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/BP_HUD7CC7B86C47BC6132D1F32CAB10D80BFA.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/HUBs/BP_HUD.uasset'
+[2017.11.07-01.59.18:745][760]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/HUBs/BP_HUD.uasset
+[2017.11.07-01.59.19:558][810]LogSavePackage: Save=100.21ms
+[2017.11.07-01.59.19:559][810]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/BP_HUD23C8812C47A8191F9E8F33B7A5E63EB3.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/HUBs/BP_HUD.uasset'
+[2017.11.07-01.59.19:563][810]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/HUBs/BP_HUD.uasset
+[2017.11.07-01.59.22:895][112]BlueprintLog: New page: Compile BP_HUD
+[2017.11.07-01.59.26:699][291]LogSavePackage: Save=112.83ms
+[2017.11.07-01.59.26:699][291]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/SideScrollerGameModeDE08A09F4A659CB3F5877EBFEFEAD725.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2017.11.07-01.59.26:709][291]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset
+[2017.11.07-01.59.27:732][291]LogSavePackage: Save=642.09ms
+[2017.11.07-01.59.27:732][291]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/InfiniteJumper0B00A5C84DB7C8D1B992ACA286BF45F9.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Maps/InfiniteJumper.umap'
+[2017.11.07-01.59.27:747][291]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Maps/InfiniteJumper.umap
+[2017.11.07-01.59.27:915][291]LogFileHelpers: Saving map 'InfiniteJumper' took 1.198
+[2017.11.07-01.59.45:026][693]LogHttp: Warning: 000002979B437E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-01.59.45:026][693]LogHttp: Warning: 000002979B437E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-01.59.45:026][693]LogHttp: Warning: 000002979B437E80: libcurl info message cache 1 (Closing connection 22)
+[2017.11.07-01.59.54:517][206]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.07-02.00.10:092][956]LogSavePackage: Save=359.01ms
+[2017.11.07-02.00.10:092][956]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/BP_LevelCDA645364D1026F1722B12B4314441FF.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/BP_Level.uasset'
+[2017.11.07-02.00.10:102][956]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/BP_Level.uasset
+[2017.11.07-02.00.57:571][149]LogMetaData: Removing '/Game/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatform.FloorPlatform:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatorm.PackageMetaData'
+[2017.11.07-02.00.57:571][149]LogMetaData: Removing '/Game/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatform.SKEL_FloorPlatform_C' ref from Metadata '/Game/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatorm.PackageMetaData'
+[2017.11.07-02.00.57:571][149]LogMetaData: Removing '/Game/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatform.FloorPlatform_C' ref from Metadata '/Game/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatorm.PackageMetaData'
+[2017.11.07-02.00.57:571][149]LogMetaData: Removing '/Game/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatform.FloorPlatform:EventGraph.K2Node_Event_0' ref from Metadata '/Game/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatorm.PackageMetaData'
+[2017.11.07-02.00.57:571][149]LogMetaData: Removing '/Game/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatform.FloorPlatform:EventGraph.K2Node_Event_1' ref from Metadata '/Game/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatorm.PackageMetaData'
+[2017.11.07-02.00.57:571][149]LogMetaData: Removing '/Game/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatform.FloorPlatform:EventGraph.K2Node_Event_2' ref from Metadata '/Game/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatorm.PackageMetaData'
+[2017.11.07-02.00.57:774][149]LogSavePackage: Save=30.02ms
+[2017.11.07-02.00.57:774][149]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/FloorPlatformF8D872694EBFC39123AC889EF0579BDF.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatform.uasset'
+[2017.11.07-02.00.57:783][149]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatform.uasset
+[2017.11.07-02.01.33:435][839]LogStaticMesh: Building static mesh Rise_Wall...
+[2017.11.07-02.01.33:482][839]LogStaticMesh: Built static mesh [0.05s] /Game/SideScrollerBP/3DModels/Rise_Wall.Rise_Wall
+[2017.11.07-02.01.45:084][367]LogHttp: Warning: 00000297C2569780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-02.01.45:085][367]LogHttp: Warning: 00000297C2569780: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-02.01.45:085][367]LogHttp: Warning: 00000297C2569780: libcurl info message cache 1 (Closing connection 23)
+[2017.11.07-02.02.19:385][603]Cmd: TRANSACTION UNDO
+[2017.11.07-02.02.19:385][603]LogEditorTransaction: Undo Toggle Absolute Scale
+[2017.11.07-02.02.20:769][703]Cmd: TRANSACTION UNDO
+[2017.11.07-02.02.20:769][703]LogEditorTransaction: Undo Toggle Absolute Scale
+[2017.11.07-02.02.21:506][732]Cmd: TRANSACTION UNDO
+[2017.11.07-02.02.21:506][732]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.07-02.03.45:121][642]LogHttp: Warning: 00000297ACFDA380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-02.03.45:121][642]LogHttp: Warning: 00000297ACFDA380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-02.03.45:121][642]LogHttp: Warning: 00000297ACFDA380: libcurl info message cache 1 (Closing connection 24)
+[2017.11.07-02.03.47:136][751]LogEditorTransaction: Undo Edit Static Mesh
+[2017.11.07-02.03.47:858][780]LogEditorTransaction: Undo Rename Component Variable
+[2017.11.07-02.03.48:388][801]LogEditorTransaction: Undo Add Component
+[2017.11.07-02.03.48:730][814]LogEditorTransaction: Undo Resize Node
+[2017.11.07-02.03.54:748][155]BlueprintLog: New page: Compile FloorPlatform
+[2017.11.07-02.03.56:199][196]LogSavePackage: Save=29.06ms
+[2017.11.07-02.03.56:199][196]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/FloorPlatformE0F280DD4DAE59F561907BB7C0EAF49F.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatform.uasset'
+[2017.11.07-02.03.56:210][196]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/FloorPlatform.uasset
+[2017.11.07-02.04.20:761][ 32]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.07-02.04.30:462][392]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.07-02.05.42:215][546]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.07-02.05.43:080][576]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.07-02.05.44:947][653]LogEditorTransaction: Redo Modify Component(s)
+[2017.11.07-02.05.45:152][660]LogHttp: Warning: 00000297A0955000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-02.05.45:152][660]LogHttp: Warning: 00000297A0955000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-02.05.45:152][660]LogHttp: Warning: 00000297A0955000: libcurl info message cache 1 (Closing connection 25)
+[2017.11.07-02.06.14:846][873]LogStaticMesh: Building static mesh Rise_Floor_M...
+[2017.11.07-02.06.14:872][873]LogStaticMesh: Built static mesh [0.08s] /Game/SideScrollerBP/3DModels/Rise_Floor_M.Rise_Floor_M
+[2017.11.07-02.06.50:846][473]LogStaticMesh: Building static mesh Rise_Floor_L...
+[2017.11.07-02.06.50:867][473]LogStaticMesh: Built static mesh [0.02s] /Game/SideScrollerBP/3DModels/Rise_Floor_L.Rise_Floor_L
+[2017.11.07-02.06.59:623][832]LogEditorTransaction: Undo Add Component
+[2017.11.07-02.07.28:545][ 80]LogStaticMesh: Building static mesh Rise_Floor_R...
+[2017.11.07-02.07.28:564][ 80]LogStaticMesh: Built static mesh [0.02s] /Game/SideScrollerBP/3DModels/Rise_Floor_R.Rise_Floor_R
+[2017.11.07-02.07.45:184][761]LogHttp: Warning: 00000297C0D81300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-02.07.45:185][761]LogHttp: Warning: 00000297C0D81300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-02.07.45:185][761]LogHttp: Warning: 00000297C0D81300: libcurl info message cache 1 (Closing connection 26)
+[2017.11.07-02.09.45:225][706]LogHttp: Warning: 000002979EF72680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-02.09.45:225][706]LogHttp: Warning: 000002979EF72680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-02.09.45:225][706]LogHttp: Warning: 000002979EF72680: libcurl info message cache 1 (Closing connection 27)
+[2017.11.07-02.11.45:444][333]LogHttp: Warning: 00000297D1A80E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-02.11.45:444][333]LogHttp: Warning: 00000297D1A80E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-02.11.45:444][333]LogHttp: Warning: 00000297D1A80E80: libcurl info message cache 1 (Closing connection 28)
+[2017.11.07-02.13.27:019][438]BlueprintLog: New page: Compile FloorPlataform
+[2017.11.07-02.13.29:965][490]LogSavePackage: Save=67.30ms
+[2017.11.07-02.13.29:965][490]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/FloorPlataform32F05DE640116F84221338BDC9220B93.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/FloorPlataform.uasset'
+[2017.11.07-02.13.29:976][490]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/FloorPlataform.uasset
+[2017.11.07-02.13.36:013][665]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.07-02.13.42:506][958]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.13.42:563][958]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.13.42:563][958]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.13.42:624][958]LogPlayLevel: [PlayLevel] Compiling BP_Level before play...
+[2017.11.07-02.13.42:720][958]LogPlayLevel: [PlayLevel]   Compiling SideScrollerGameMode as a dependent...
+[2017.11.07-02.13.43:203][958]LogPlayLevel: PlayLevel: Blueprint regeneration took 640 ms (2 blueprints)
+[2017.11.07-02.13.43:203][958]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:13:43 PM)
+[2017.11.07-02.13.43:204][958]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.13.43:239][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035859s)
+[2017.11.07-02.13.43:242][958]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.13.43:243][958]LogPlayLevel: PIE: World Init took: (0.003097s)
+[2017.11.07-02.13.43:244][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.040061s)
+[2017.11.07-02.13.43:293][958]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.13.43:313][958]LogInit: FAudioDevice initialized.
+[2017.11.07-02.13.43:363][958]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.13.43:369][958]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.11.06-22.13.43
+[2017.11.07-02.13.43:371][958]LogWorld: Bringing up level for play took: 0.006994
+[2017.11.07-02.13.43:525][958]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 1.771
+[2017.11.07-02.13.43:526][958]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.13.45:516][989]LogHttp: Warning: 00000297B0E58B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-02.13.45:516][989]LogHttp: Warning: 00000297B0E58B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-02.13.45:516][989]LogHttp: Warning: 00000297B0E58B80: libcurl info message cache 1 (Closing connection 29)
+[2017.11.07-02.13.52:839][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.13.52:982][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.13.57:697][267]LogEditorViewport: Clicking on Actor (LMB): FloorPlataform_C (FloorPlataform)
+[2017.11.07-02.13.58:012][276]Cmd: DELETE
+[2017.11.07-02.13.58:012][276]Cmd: ACTOR DELETE
+[2017.11.07-02.13.58:075][276]LogEditorActor: Deleted Actor: FloorPlataform_C
+[2017.11.07-02.13.58:126][276]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2017.11.07-02.14.01:836][394]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.14.01:895][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.14.01:895][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-02.14.01:895][394]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:14:01 PM)
+[2017.11.07-02.14.01:896][394]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.14.01:927][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031528s)
+[2017.11.07-02.14.01:930][394]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.14.01:930][394]LogPlayLevel: PIE: World Init took: (0.003045s)
+[2017.11.07-02.14.01:931][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.035328s)
+[2017.11.07-02.14.01:983][394]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.14.02:002][394]LogInit: FAudioDevice initialized.
+[2017.11.07-02.14.02:043][394]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.14.02:047][394]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.11.06-22.14.02
+[2017.11.07-02.14.02:049][394]LogWorld: Bringing up level for play took: 0.005016
+[2017.11.07-02.14.02:125][394]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 0.371
+[2017.11.07-02.14.02:126][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.15.00:216][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.15.00:291][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.15.13:202][279]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.07-02.15.27:936][870]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.15.27:994][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.15.27:995][870]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.15.28:006][870]LogPlayLevel: [PlayLevel] Compiling BP_Level before play...
+[2017.11.07-02.15.28:087][870]LogPlayLevel: [PlayLevel]   Compiling FloorPlataform as a dependent...
+[2017.11.07-02.15.28:906][870]LogPlayLevel: PlayLevel: Blueprint regeneration took 911 ms (2 blueprints)
+[2017.11.07-02.15.28:907][870]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:15:28 PM)
+[2017.11.07-02.15.28:907][870]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.15.28:942][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034913s)
+[2017.11.07-02.15.28:945][870]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.15.28:946][870]LogPlayLevel: PIE: World Init took: (0.003019s)
+[2017.11.07-02.15.28:946][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.038681s)
+[2017.11.07-02.15.28:992][870]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.15.29:011][870]LogInit: FAudioDevice initialized.
+[2017.11.07-02.15.29:060][870]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.15.29:064][870]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 60) at 2017.11.06-22.15.29
+[2017.11.07-02.15.29:066][870]LogWorld: Bringing up level for play took: 0.005189
+[2017.11.07-02.15.29:140][870]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 1.386
+[2017.11.07-02.15.29:141][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.15.41:323][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.15.41:441][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.15.45:561][284]LogHttp: Warning: 0000029797121900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-02.15.45:561][284]LogHttp: Warning: 0000029797121900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-02.15.45:561][284]LogHttp: Warning: 0000029797121900: libcurl info message cache 1 (Closing connection 30)
+[2017.11.07-02.15.47:288][359]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.15.47:346][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.15.47:347][359]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.15.47:358][359]LogPlayLevel: [PlayLevel] Compiling BP_Level before play...
+[2017.11.07-02.15.47:405][359]LogPlayLevel: [PlayLevel]   Compiling FloorPlataform as a dependent...
+[2017.11.07-02.15.48:375][359]LogPlayLevel: PlayLevel: Blueprint regeneration took 1028 ms (2 blueprints)
+[2017.11.07-02.15.48:375][359]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:15:48 PM)
+[2017.11.07-02.15.48:375][359]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.15.48:406][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031057s)
+[2017.11.07-02.15.48:408][359]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.15.48:409][359]LogPlayLevel: PIE: World Init took: (0.002089s)
+[2017.11.07-02.15.48:409][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.033764s)
+[2017.11.07-02.15.48:460][359]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.15.48:477][359]LogInit: FAudioDevice initialized.
+[2017.11.07-02.15.48:525][359]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.15.48:529][359]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 60) at 2017.11.06-22.15.48
+[2017.11.07-02.15.48:531][359]LogWorld: Bringing up level for play took: 0.005038
+[2017.11.07-02.15.48:604][359]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 0.849
+[2017.11.07-02.15.48:605][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.15.58:563][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.15.58:682][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.16.06:288][866]BlueprintLog: New page: Compile FloorPlataform
+[2017.11.07-02.16.10:794][989]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.16.10:851][989]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.16.10:852][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-02.16.10:852][989]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:16:10 PM)
+[2017.11.07-02.16.10:852][989]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.16.10:886][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034190s)
+[2017.11.07-02.16.10:889][989]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.16.10:889][989]LogPlayLevel: PIE: World Init took: (0.002929s)
+[2017.11.07-02.16.10:890][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.037808s)
+[2017.11.07-02.16.10:940][989]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.16.10:958][989]LogInit: FAudioDevice initialized.
+[2017.11.07-02.16.11:003][989]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.16.11:009][989]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 60) at 2017.11.06-22.16.11
+[2017.11.07-02.16.11:011][989]LogWorld: Bringing up level for play took: 0.006215
+[2017.11.07-02.16.11:098][989]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper -0.656
+[2017.11.07-02.16.11:099][989]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.16.15:710][ 78]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.16.15:833][ 78]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.16.38:709][  4]BlueprintLog: New page: Compile FloorPlataform
+[2017.11.07-02.16.40:573][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.16.40:627][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.16.40:628][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-02.16.40:628][ 41]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:16:40 PM)
+[2017.11.07-02.16.40:628][ 41]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.16.40:658][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030095s)
+[2017.11.07-02.16.40:660][ 41]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.16.40:661][ 41]LogPlayLevel: PIE: World Init took: (0.002028s)
+[2017.11.07-02.16.40:661][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.032714s)
+[2017.11.07-02.16.40:711][ 41]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.16.40:728][ 41]LogInit: FAudioDevice initialized.
+[2017.11.07-02.16.40:775][ 41]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.16.40:780][ 41]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 60) at 2017.11.06-22.16.40
+[2017.11.07-02.16.40:782][ 41]LogWorld: Bringing up level for play took: 0.005123
+[2017.11.07-02.16.41:145][ 41]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 1.391
+[2017.11.07-02.16.41:146][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.16.55:653][335]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.16.55:796][335]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.17.02:272][585]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.07-02.17.07:308][810]BlueprintLog: New page: Compile BP_Level
+[2017.11.07-02.17.08:950][821]LogSavePackage: Save=368.43ms
+[2017.11.07-02.17.08:950][821]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/BP_Level2EF681C14CA73362B3AB4CA7365D9295.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/BP_Level.uasset'
+[2017.11.07-02.17.08:960][821]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/BP_Level.uasset
+[2017.11.07-02.17.20:260][235]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.07-02.17.45:646][ 33]LogHttp: Warning: 000002971D054D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-02.17.45:647][ 33]LogHttp: Warning: 000002971D054D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-02.17.45:647][ 33]LogHttp: Warning: 000002971D054D00: libcurl info message cache 1 (Closing connection 31)
+[2017.11.07-02.18.19:980][254]Cmd: MODE SCALEGRID=1
+[2017.11.07-02.19.23:790][661]Cmd: MODE SCALEGRID=0
+[2017.11.07-02.19.45:677][517]LogHttp: Warning: 000002970039FD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-02.19.45:677][517]LogHttp: Warning: 000002970039FD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-02.19.45:678][517]LogHttp: Warning: 000002970039FD00: libcurl info message cache 1 (Closing connection 32)
+[2017.11.07-02.20.17:662][760]BlueprintLog: New page: Compile Platform
+[2017.11.07-02.20.23:942][904]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.07-02.20.32:663][309]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.20.32:712][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.20.32:712][309]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.20.32:771][309]LogPlayLevel: [PlayLevel] Compiling BP_Level before play...
+[2017.11.07-02.20.32:865][309]LogPlayLevel: [PlayLevel]   Compiling SideScrollerGameMode as a dependent...
+[2017.11.07-02.20.33:336][309]LogPlayLevel: PlayLevel: Blueprint regeneration took 623 ms (2 blueprints)
+[2017.11.07-02.20.33:337][309]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:20:33 PM)
+[2017.11.07-02.20.33:337][309]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.20.33:369][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032269s)
+[2017.11.07-02.20.33:371][309]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.20.33:371][309]LogPlayLevel: PIE: World Init took: (0.002227s)
+[2017.11.07-02.20.33:372][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.035441s)
+[2017.11.07-02.20.33:430][309]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.20.33:449][309]LogInit: FAudioDevice initialized.
+[2017.11.07-02.20.33:497][309]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.20.33:502][309]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 60) at 2017.11.06-22.20.33
+[2017.11.07-02.20.33:504][309]LogWorld: Bringing up level for play took: 0.005083
+[2017.11.07-02.20.33:581][309]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 1.826
+[2017.11.07-02.20.33:582][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.21.18:873][146]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.21.19:263][146]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.21.21:740][244]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.21.21:805][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.21.21:805][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-02.21.21:805][244]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:21:21 PM)
+[2017.11.07-02.21.21:805][244]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.21.21:837][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031198s)
+[2017.11.07-02.21.21:839][244]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.21.21:839][244]LogPlayLevel: PIE: World Init took: (0.002311s)
+[2017.11.07-02.21.21:840][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.034351s)
+[2017.11.07-02.21.21:890][244]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.21.21:908][244]LogInit: FAudioDevice initialized.
+[2017.11.07-02.21.21:947][244]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.21.21:950][244]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 60) at 2017.11.06-22.21.21
+[2017.11.07-02.21.21:952][244]LogWorld: Bringing up level for play took: 0.004736
+[2017.11.07-02.21.22:019][244]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 0.264
+[2017.11.07-02.21.22:019][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.21.45:726][818]LogHttp: Warning: 0000029833D6A500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-02.21.45:726][818]LogHttp: Warning: 0000029833D6A500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-02.21.45:726][818]LogHttp: Warning: 0000029833D6A500: libcurl info message cache 1 (Closing connection 33)
+[2017.11.07-02.21.58:821][225]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.21.58:884][225]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.07:609][555]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.22.07:669][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.07:669][555]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.22.07:679][555]LogPlayLevel: [PlayLevel] Compiling BP_Level before play...
+[2017.11.07-02.22.07:758][555]LogPlayLevel: [PlayLevel]   Compiling Platform as a dependent...
+[2017.11.07-02.22.08:573][555]LogPlayLevel: PlayLevel: Blueprint regeneration took 904 ms (2 blueprints)
+[2017.11.07-02.22.08:573][555]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:22:08 PM)
+[2017.11.07-02.22.08:574][555]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.22.08:607][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032936s)
+[2017.11.07-02.22.08:610][555]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.22.08:610][555]LogPlayLevel: PIE: World Init took: (0.003192s)
+[2017.11.07-02.22.08:611][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.036826s)
+[2017.11.07-02.22.08:659][555]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.22.08:678][555]LogInit: FAudioDevice initialized.
+[2017.11.07-02.22.08:726][555]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.22.08:731][555]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 60) at 2017.11.06-22.22.08
+[2017.11.07-02.22.08:734][555]LogWorld: Bringing up level for play took: 0.006509
+[2017.11.07-02.22.08:812][555]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 1.057
+[2017.11.07-02.22.08:813][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.14:569][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.14:687][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.17:874][785]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.22.17:932][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.17:932][785]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.22.17:942][785]LogPlayLevel: [PlayLevel] Compiling BP_Level before play...
+[2017.11.07-02.22.17:991][785]LogPlayLevel: [PlayLevel]   Compiling Platform as a dependent...
+[2017.11.07-02.22.18:956][785]LogPlayLevel: PlayLevel: Blueprint regeneration took 1023 ms (2 blueprints)
+[2017.11.07-02.22.18:956][785]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:22:18 PM)
+[2017.11.07-02.22.18:956][785]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.22.18:985][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029242s)
+[2017.11.07-02.22.18:989][785]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.22.18:990][785]LogPlayLevel: PIE: World Init took: (0.003959s)
+[2017.11.07-02.22.18:990][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.034057s)
+[2017.11.07-02.22.19:039][785]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.22.19:058][785]LogInit: FAudioDevice initialized.
+[2017.11.07-02.22.19:101][785]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.22.19:105][785]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 60) at 2017.11.06-22.22.19
+[2017.11.07-02.22.19:108][785]LogWorld: Bringing up level for play took: 0.004985
+[2017.11.07-02.22.19:182][785]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 1.427
+[2017.11.07-02.22.19:183][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.24:835][893]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.24:956][893]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.29:597][ 93]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.07-02.22.35:548][311]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.22.35:608][311]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.35:608][311]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.22.35:620][311]LogPlayLevel: [PlayLevel] Compiling BP_Level before play...
+[2017.11.07-02.22.35:669][311]LogPlayLevel: [PlayLevel]   Compiling Platform as a dependent...
+[2017.11.07-02.22.36:826][311]LogPlayLevel: PlayLevel: Blueprint regeneration took 1218 ms (2 blueprints)
+[2017.11.07-02.22.36:827][311]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:22:36 PM)
+[2017.11.07-02.22.36:827][311]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.22.36:856][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029456s)
+[2017.11.07-02.22.36:859][311]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.22.36:859][311]LogPlayLevel: PIE: World Init took: (0.002553s)
+[2017.11.07-02.22.36:860][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.032724s)
+[2017.11.07-02.22.36:907][311]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.22.36:926][311]LogInit: FAudioDevice initialized.
+[2017.11.07-02.22.36:971][311]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.22.36:976][311]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 60) at 2017.11.06-22.22.36
+[2017.11.07-02.22.36:978][311]LogWorld: Bringing up level for play took: 0.005961
+[2017.11.07-02.22.37:055][311]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 1.3
+[2017.11.07-02.22.37:056][311]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.42:539][417]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.42:658][417]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.57:656][ 46]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.22.57:716][ 46]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.22.57:716][ 46]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.22.57:727][ 46]LogPlayLevel: [PlayLevel] Compiling BP_Level before play...
+[2017.11.07-02.22.57:778][ 46]LogPlayLevel: [PlayLevel]   Compiling Platform as a dependent...
+[2017.11.07-02.22.59:118][ 46]LogPlayLevel: PlayLevel: Blueprint regeneration took 1401 ms (2 blueprints)
+[2017.11.07-02.22.59:118][ 46]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:22:59 PM)
+[2017.11.07-02.22.59:118][ 46]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.22.59:151][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032928s)
+[2017.11.07-02.22.59:154][ 46]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.22.59:154][ 46]LogPlayLevel: PIE: World Init took: (0.002870s)
+[2017.11.07-02.22.59:155][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.036535s)
+[2017.11.07-02.22.59:209][ 46]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.22.59:227][ 46]LogInit: FAudioDevice initialized.
+[2017.11.07-02.22.59:276][ 46]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.22.59:281][ 46]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 60) at 2017.11.06-22.22.59
+[2017.11.07-02.22.59:283][ 46]LogWorld: Bringing up level for play took: 0.005096
+[2017.11.07-02.22.59:356][ 46]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 1.601
+[2017.11.07-02.22.59:357][ 46]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.23.02:824][110]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.23.02:939][110]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.23.12:657][479]Cmd: MODE SCALEGRID=1
+[2017.11.07-02.23.24:016][958]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.23.24:075][958]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.23.24:075][958]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.23.24:085][958]LogPlayLevel: [PlayLevel] Compiling BP_Level before play...
+[2017.11.07-02.23.24:134][958]LogPlayLevel: [PlayLevel]   Compiling Platform as a dependent...
+[2017.11.07-02.23.25:634][958]LogPlayLevel: PlayLevel: Blueprint regeneration took 1558 ms (2 blueprints)
+[2017.11.07-02.23.25:634][958]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:23:25 PM)
+[2017.11.07-02.23.25:635][958]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.23.25:665][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030104s)
+[2017.11.07-02.23.25:667][958]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.23.25:668][958]LogPlayLevel: PIE: World Init took: (0.002824s)
+[2017.11.07-02.23.25:668][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.033511s)
+[2017.11.07-02.23.25:719][958]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.23.25:737][958]LogInit: FAudioDevice initialized.
+[2017.11.07-02.23.25:783][958]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.23.25:788][958]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 60) at 2017.11.06-22.23.25
+[2017.11.07-02.23.25:790][958]LogWorld: Bringing up level for play took: 0.005385
+[2017.11.07-02.23.25:863][958]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 2.109
+[2017.11.07-02.23.25:864][958]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.23.32:111][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.23.32:227][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.23.36:949][285]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.07-02.23.42:817][510]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.23.42:875][510]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.23.42:875][510]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.23.42:886][510]LogPlayLevel: [PlayLevel] Compiling BP_Level before play...
+[2017.11.07-02.23.42:938][510]LogPlayLevel: [PlayLevel]   Compiling Platform as a dependent...
+[2017.11.07-02.23.44:622][510]LogPlayLevel: PlayLevel: Blueprint regeneration took 1747 ms (2 blueprints)
+[2017.11.07-02.23.44:623][510]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:23:44 PM)
+[2017.11.07-02.23.44:623][510]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.23.44:655][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032453s)
+[2017.11.07-02.23.44:658][510]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.23.44:659][510]LogPlayLevel: PIE: World Init took: (0.003813s)
+[2017.11.07-02.23.44:660][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.037278s)
+[2017.11.07-02.23.44:716][510]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.23.44:734][510]LogInit: FAudioDevice initialized.
+[2017.11.07-02.23.44:784][510]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.23.44:788][510]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 60) at 2017.11.06-22.23.44
+[2017.11.07-02.23.44:790][510]LogWorld: Bringing up level for play took: 0.005156
+[2017.11.07-02.23.44:859][510]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 1.104
+[2017.11.07-02.23.44:860][510]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.23.45:779][522]LogHttp: Warning: 0000029832728D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-02.23.45:779][522]LogHttp: Warning: 0000029832728D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-02.23.45:779][522]LogHttp: Warning: 0000029832728D00: libcurl info message cache 1 (Closing connection 34)
+[2017.11.07-02.24.08:098][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.24.08:475][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.24.14:134][212]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-02.24.14:196][212]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.24.14:196][212]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.24.14:206][212]LogPlayLevel: [PlayLevel] Compiling BP_Level before play...
+[2017.11.07-02.24.14:256][212]LogPlayLevel: [PlayLevel]   Compiling Platform as a dependent...
+[2017.11.07-02.24.16:039][212]LogPlayLevel: PlayLevel: Blueprint regeneration took 1843 ms (2 blueprints)
+[2017.11.07-02.24.16:039][212]PIE: New page: PIE session: InfiniteJumper (Nov 6, 2017, 6:24:16 PM)
+[2017.11.07-02.24.16:039][212]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.11.07-02.24.16:071][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032202s)
+[2017.11.07-02.24.16:073][212]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.11.07-02.24.16:074][212]LogPlayLevel: PIE: World Init took: (0.002084s)
+[2017.11.07-02.24.16:074][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.035066s)
+[2017.11.07-02.24.16:119][212]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-02.24.16:139][212]LogInit: FAudioDevice initialized.
+[2017.11.07-02.24.16:186][212]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.11.07-02.24.16:190][212]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 60) at 2017.11.06-22.24.16
+[2017.11.07-02.24.16:192][212]LogWorld: Bringing up level for play took: 0.005247
+[2017.11.07-02.24.16:257][212]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 2.502
+[2017.11.07-02.24.16:258][212]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.24.29:806][483]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.24.29:931][483]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.11.07-02.24.33:322][631]LogSavePackage: Save=145.55ms
+[2017.11.07-02.24.33:324][631]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/Platform7E5943B046F6D69652A79AB66076E4F5.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/Platform.uasset'
+[2017.11.07-02.24.33:334][631]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/Platform.uasset
+[2017.11.07-02.24.36:953][682]LogSavePackage: Save=377.65ms
+[2017.11.07-02.24.36:953][682]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/BP_Level0A542DC34E17A0F4EF137A9B46D6286F.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/BP_Level.uasset'
+[2017.11.07-02.24.36:962][682]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/BP_Level.uasset
+[2017.11.07-02.24.37:947][682]LogSavePackage: Save=590.11ms
+[2017.11.07-02.24.37:947][682]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/InfiniteJumperE373B53648399E68A49E26A278D643B6.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Maps/InfiniteJumper.umap'
+[2017.11.07-02.24.37:959][682]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Maps/InfiniteJumper.umap
+[2017.11.07-02.24.38:096][682]LogFileHelpers: Saving map 'InfiniteJumper' took 1.128
+[2017.11.07-02.25.09:562][ 98]BlueprintLog: New page: Compile Platform
+[2017.11.07-02.25.12:806][120]LogSavePackage: Save=47.48ms
+[2017.11.07-02.25.12:806][120]LogSavePackage: Moving 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/Platform187FE91D4A6F7C3D4AC5DEADE99DAD9F.tmp' to 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/Platform.uasset'
+[2017.11.07-02.25.12:816][120]LogSavePackage: Display: Finished SavePackage G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/SideScrollerBP/Blueprints/LvlGenrating/Platform.uasset
+[2017.11.07-02.25.14:770][195]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.07-02.25.19:992][285]Cmd: QUIT_EDITOR
+[2017.11.07-02.25.20:163][285]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.07-02.25.20:167][285]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.07-02.25.20:201][285]LogExit: Preparing to exit.
+[2017.11.07-02.25.21:069][285]LogExit: Editor shut down
+[2017.11.07-02.25.21:094][285]LogExit: Transaction tracking system shut down
+[2017.11.07-02.25.21:457][285]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.07-02.25.21:457][285]LogDirectoryWatcher: A directory notification for 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/' was aborted.
+[2017.11.07-02.25.21:457][285]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.07-02.25.21:457][285]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.07-02.25.21:457][285]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.07-02.25.22:059][285]LogExit: Object subsystem successfully closed.
+[2017.11.07-02.25.22:112][285]LogD3D11RHI: Shutdown
+[2017.11.07-02.25.22:112][285]LogD3D11RHI: CleanupD3DDevice
+[2017.11.07-02.25.23:213][285]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.07-02.25.23:321][285]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (542)
+[2017.11.07-02.25.23:322][285]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (540)
+[2017.11.07-02.25.23:322][285]LogModuleManager: Shutting down and abandoning module SequencerWidgets (538)
+[2017.11.07-02.25.23:322][285]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2017.11.07-02.25.23:322][285]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2017.11.07-02.25.23:322][285]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (532)
+[2017.11.07-02.25.23:322][285]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.11.07-02.25.23:322][285]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.11.07-02.25.23:322][285]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.11.07-02.25.23:322][285]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.07-02.25.23:346][285]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.11.07-02.25.23:346][285]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.11.07-02.25.23:346][285]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.11.07-02.25.23:346][285]LogDirectoryWatcher: A directory notification for 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/Collections/' was aborted.
+[2017.11.07-02.25.23:347][285]LogDirectoryWatcher: A directory notification for 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Content/Developers/kreye/Collections/' was aborted.
+[2017.11.07-02.25.23:347][285]LogDirectoryWatcher: A directory notification for 'G:/Unreal Projects/Capstone/InfiniteJumper4.17 - Master File/Saved/Collections/' was aborted.
+[2017.11.07-02.25.23:347][285]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.11.07-02.25.23:347][285]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.11.07-02.25.23:347][285]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.11.07-02.25.23:347][285]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.11.07-02.25.23:347][285]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.11.07-02.25.23:347][285]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.11.07-02.25.23:347][285]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.11.07-02.25.23:348][285]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.11.07-02.25.23:349][285]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.11.07-02.25.23:349][285]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.11.07-02.25.23:349][285]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.11.07-02.25.23:349][285]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.11.07-02.25.23:349][285]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.11.07-02.25.23:349][285]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.11.07-02.25.23:349][285]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.11.07-02.25.23:349][285]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.11.07-02.25.23:349][285]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.11.07-02.25.23:349][285]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.11.07-02.25.23:349][285]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.11.07-02.25.23:350][285]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.11.07-02.25.23:350][285]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.11.07-02.25.23:350][285]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.11.07-02.25.23:350][285]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.11.07-02.25.24:044][285]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.11.07-02.25.24:044][285]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.11.07-02.25.24:044][285]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.11.07-02.25.24:044][285]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.11.07-02.25.24:044][285]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.11.07-02.25.24:044][285]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.11.07-02.25.24:044][285]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.11.07-02.25.24:044][285]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.11.07-02.25.24:044][285]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.11.07-02.25.24:044][285]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.11.07-02.25.24:044][285]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.11.07-02.25.24:045][285]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.11.07-02.25.24:045][285]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.11.07-02.25.24:045][285]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.11.07-02.25.24:045][285]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.11.07-02.25.24:045][285]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.11.07-02.25.24:045][285]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.11.07-02.25.24:046][285]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.11.07-02.25.24:046][285]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.11.07-02.25.24:046][285]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.11.07-02.25.24:046][285]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.11.07-02.25.24:046][285]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.11.07-02.25.24:046][285]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.11.07-02.25.24:046][285]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.11.07-02.25.24:100][285]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.11.07-02.25.24:100][285]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.11.07-02.25.24:100][285]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.11.07-02.25.24:100][285]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.11.07-02.25.24:100][285]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.11.07-02.25.24:100][285]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.11.07-02.25.24:100][285]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.11.07-02.25.24:101][285]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.11.07-02.25.24:101][285]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.11.07-02.25.24:101][285]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.11.07-02.25.24:124][285]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.11.07-02.25.24:127][285]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.11.07-02.25.24:127][285]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.11.07-02.25.24:127][285]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.11.07-02.25.24:127][285]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.11.07-02.25.24:127][285]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.11.07-02.25.24:127][285]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.11.07-02.25.24:128][285]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.11.07-02.25.24:128][285]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.11.07-02.25.24:128][285]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.11.07-02.25.24:128][285]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.11.07-02.25.24:129][285]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.11.07-02.25.24:129][285]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.11.07-02.25.24:129][285]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.11.07-02.25.24:129][285]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.11.07-02.25.24:129][285]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.11.07-02.25.24:129][285]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.11.07-02.25.24:129][285]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.11.07-02.25.24:129][285]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.11.07-02.25.24:129][285]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.11.07-02.25.24:129][285]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.11.07-02.25.24:169][285]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.11.07-02.25.24:170][285]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.11.07-02.25.24:170][285]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.11.07-02.25.24:170][285]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.11.07-02.25.24:170][285]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.11.07-02.25.24:170][285]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.11.07-02.25.24:170][285]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.11.07-02.25.24:170][285]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.11.07-02.25.24:170][285]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.11.07-02.25.24:170][285]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.11.07-02.25.24:170][285]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.11.07-02.25.24:171][285]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.11.07-02.25.24:171][285]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.11.07-02.25.24:171][285]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.11.07-02.25.24:171][285]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.11.07-02.25.24:171][285]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.11.07-02.25.24:171][285]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.11.07-02.25.24:171][285]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.11.07-02.25.24:173][285]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.11.07-02.25.24:176][285]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.11.07-02.25.24:176][285]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.11.07-02.25.24:176][285]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.11.07-02.25.24:176][285]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.11.07-02.25.24:180][285]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.11.07-02.25.24:189][285]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.11.07-02.25.24:189][285]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.11.07-02.25.24:189][285]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.11.07-02.25.24:189][285]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.11.07-02.25.24:190][285]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.11.07-02.25.24:190][285]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.11.07-02.25.24:190][285]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.11.07-02.25.24:190][285]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.11.07-02.25.24:193][285]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.11.07-02.25.24:194][285]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.11.07-02.25.24:194][285]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.11.07-02.25.24:197][285]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.07-02.25.24:197][285]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.07-02.25.24:197][285]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.07-02.25.24:197][285]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.07-02.25.24:197][285]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.07-02.25.24:197][285]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.07-02.25.24:198][285]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.07-02.25.24:198][285]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.07-02.25.24:299][285]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.07-02.25.24:400][285]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.07-02.25.24:400][285]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.07-02.25.24:400][285]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.07-02.25.24:400][285]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.07-02.25.24:400][285]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.07-02.25.24:400][285]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.07-02.25.24:404][285]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.07-02.25.24:404][285]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.07-02.25.24:404][285]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.07-02.25.24:405][285]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.07-02.25.24:405][285]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.07-02.25.24:405][285]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.07-02.25.24:405][285]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.07-02.25.24:405][285]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.07-02.25.24:405][285]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.07-02.25.24:405][285]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.07-02.25.24:405][285]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.07-02.25.24:405][285]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.07-02.25.24:405][285]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.07-02.25.24:405][285]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.07-02.25.24:406][285]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.07-02.25.24:406][285]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.07-02.25.24:406][285]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.07-02.25.24:406][285]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.07-02.25.24:406][285]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.07-02.25.24:406][285]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.07-02.25.24:406][285]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.07-02.25.24:406][285]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.07-02.25.24:406][285]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.07-02.25.24:406][285]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.07-02.25.24:416][285]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.11.07-02.25.24:417][285]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.07-02.25.24:432][285]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.07-02.25.24:471][285]LogDerivedDataCache: Shutdown
+[2017.11.07-02.25.24:471][285]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.07-02.25.24:471][285]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.07-02.25.24:471][285]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.07-02.25.24:471][285]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.07-02.25.24:471][285]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.07-02.25.24:471][285]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.07-02.25.24:471][285]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.07-02.25.24:471][285]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.07-02.25.24:471][285]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.07-02.25.24:471][285]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.07-02.25.24:471][285]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.07-02.25.24:472][285]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.07-02.25.24:473][285]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.07-02.25.24:473][285]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.07-02.25.24:474][285]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.07-02.25.24:474][285]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.07-02.25.24:474][285]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.07-02.25.24:474][285]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBB45B824-4DEE-F515-4806-3AB2CC410EEC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=3691cf284ca1f1681c3051979cb06f41%7C88057b4134714c0f98d798880975d3e9%7C75c10d2f-5615-4ca6-9c94-8a26968e32be&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.07-02.25.24:474][285]LogHttp: Warning: 00000297BB3BFA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-02.25.24:474][285]LogHttp: Warning: 00000297BB3BFA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-02.25.24:474][285]LogHttp: Warning: 00000297BB3BFA00: libcurl info message cache 1 (Closing connection 35)
+[2017.11.07-02.25.24:493][285]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.07-02.25.24:498][285]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.07-02.25.24:498][285]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.07-02.25.24:498][285]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.07-02.25.24:498][285]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.07-02.25.24:499][285]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.07-02.25.24:499][285]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.07-02.25.24:499][285]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.07-02.25.24:509][285]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.07-02.25.24:509][285]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.07-02.25.24:509][285]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.07-02.25.24:509][285]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.07-02.25.24:509][285]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.07-02.25.24:509][285]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.07-02.25.24:509][285]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.07-02.25.24:509][285]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.07-02.25.24:509][285]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.07-02.25.24:509][285]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.07-02.25.24:509][285]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.07-02.25.24:516][285]LogExit: Exiting.
+[2017.11.07-02.25.24:560][285]Log file closed, 11/06/17 22:25:24
