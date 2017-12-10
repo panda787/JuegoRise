@@ -1,0 +1,1131 @@
+﻿Log file open, 12/09/17 18:27:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: InfiniteJumperMF
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2112784766) SRandInit(2112784766).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.119875
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.09-22.27.41:218][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.09-22.27.41:218][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.09-22.27.41:303][  0]LogInit: Computer: DESKTOP-SJI2LPG
+[2017.12.09-22.27.41:303][  0]LogInit: User: isma0
+[2017.12.09-22.27.41:303][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.09-22.27.41:303][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2017.12.09-22.27.41:303][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2017.12.09-22.27.41:303][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.09-22.27.41:303][  0]LogMemory: Process Physical Memory: 280.74 MB used, 280.74 MB peak
+[2017.12.09-22.27.41:303][  0]LogMemory: Process Virtual Memory: 277.26 MB used, 277.26 MB peak
+[2017.12.09-22.27.41:303][  0]LogMemory: Physical Memory: 4567.25 MB used,  7584.70 MB free, 12151.95 MB total
+[2017.12.09-22.27.41:303][  0]LogMemory: Virtual Memory: 732.18 MB used,  7584.70 MB free, 134217728.00 MB total
+[2017.12.09-22.27.42:648][  0]LogInit: Using OS detected language (en-US).
+[2017.12.09-22.27.42:649][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.09-22.27.42:858][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.09-22.27.44:946][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.09-22.27.45:169][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2017.12.09-22.27.45:169][  0]LogD3D11RHI:       2019/0/6075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.09-22.27.45:194][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.12.09-22.27.45:194][  0]LogD3D11RHI:       128/0/6075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.09-22.27.45:227][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.09-22.27.45:227][  0]LogD3D11RHI:       0/0/6075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.09-22.27.45:227][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.09-22.27.45:245][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.09-22.27.45:246][  0]LogD3D11RHI:     GPU DeviceId: 0x179c (for the marketing name, search the web for "GPU Device Id")
+[2017.12.09-22.27.45:246][  0]LogWindows: EnumDisplayDevices:
+[2017.12.09-22.27.45:246][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.12.09-22.27.45:246][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.12.09-22.27.45:246][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.12.09-22.27.45:246][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.09-22.27.45:246][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2017.12.09-22.27.45:246][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.09-22.27.45:246][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.09-22.27.45:246][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.12.09-22.27.45:298][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.09-22.27.45:461][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.09-22.27.45:561][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Intermediate/Shaders/WorkingDirectory/12684/).
+[2017.12.09-22.27.45:563][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/isma0/AppData/Local/Temp/UnrealShaderWorkingDir/77C535E8401EB3E6893052AD6431B21B/'.
+[2017.12.09-22.27.45:563][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.09-22.27.49:004][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.09-22.27.49:076][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.09-22.27.49:128][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.09-22.27.49:180][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.09-22.27.49:250][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.09-22.27.49:332][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.09-22.27.49:407][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.09-22.27.49:481][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.09-22.27.49:581][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.09-22.27.49:682][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.09-22.27.49:771][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.09-22.27.49:883][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.09-22.27.49:942][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.09-22.27.50:034][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.09-22.27.50:103][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.09-22.27.50:229][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.09-22.27.50:229][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.09-22.27.50:285][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.09-22.27.50:484][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.09-22.27.50:544][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.09-22.27.50:614][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.09-22.27.50:677][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.09-22.27.50:738][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.09-22.27.50:830][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.09-22.27.50:830][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.09-22.27.52:105][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.09-22.27.53:054][  0]LogDerivedDataCache: Loaded boot cache 0.95s 93MB C:/Users/isma0/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.09-22.27.53:054][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/isma0/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.09-22.27.53:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.09-22.27.53:054][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.09-22.27.53:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.09-22.27.53:054][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.09-22.27.53:167][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.09-22.27.53:180][  0]LogDerivedDataCache: Using Local data cache path C:/Users/isma0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.09-22.27.53:220][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.09-22.27.53:288][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.09-22.27.53:335][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.09-22.27.53:336][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.09-22.28.04:508][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2017.12.09-22.28.06:007][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.09-22.28.13:805][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.09-22.28.14:014][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.09-22.28.14:015][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.09-22.28.14:015][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.09-22.28.14:015][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.09-22.28.14:015][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.09-22.28.14:364][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.09-22.28.21:950][  0]LogNetVersion: InfiniteJumperMF , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 767604215)
+[2017.12.09-22.28.25:870][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.218817 seconds
+[2017.12.09-22.28.25:914][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.09-22.28.25:914][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.12.09-22.28.25:914][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.09-22.28.26:093][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.09-22.29.20:786][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.09-22.29.20:893][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.09-22.29.22:759][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.09-22.29.23:617][  0]SourceControl: Source control is disabled
+[2017.12.09-22.29.23:617][  0]SourceControl: Source control is disabled
+[2017.12.09-22.29.23:751][  0]SourceControl: Source control is disabled
+[2017.12.09-22.29.23:855][  0]SourceControl: Source control is disabled
+[2017.12.09-22.29.25:298][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.09-22.29.25:659][  0]LogOcInput: OculusInput pre-init called
+[2017.12.09-22.29.26:556][  0]LogEngine: Initializing Engine...
+[2017.12.09-22.29.26:610][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.09-22.29.26:960][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.09-22.29.26:967][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.005 s
+[2017.12.09-22.29.27:333][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.09-22.29.27:453][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.09-22.29.27:700][  0]LogInit: FAudioDevice initialized.
+[2017.12.09-22.29.27:840][  0]LogDerivedDataCache: Saved boot cache 0.14s 93MB C:/Users/isma0/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.09-22.29.27:851][  0]LogInit: Texture streaming: Enabled
+[2017.12.09-22.29.28:352][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.09-22.29.29:056][  0]LogInit: Transaction tracking system initialized
+[2017.12.09-22.29.30:226][  0]BlueprintLog: New page: Editor Load
+[2017.12.09-22.29.32:313][  0]LocalizationService: Localization service is disabled
+[2017.12.09-22.29.33:906][  0]LogConsoleResponse: Display: 
+[2017.12.09-22.29.35:183][  0]LogFileCache: Scanning file cache for directory 'C:/Users/isma0/Desktop/JuegoRise/JuegoRise/Content/' took 0.03s
+[2017.12.09-22.29.35:183][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.09-22.29.35:186][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.09-22.29.35:199][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.09-22.29.38:590][  0]SourceControl: Source control is disabled
+[2017.12.09-22.29.38:682][  0]Cmd: MAP LOAD FILE="../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/Maps/InfiniteJumper.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.09-22.29.38:702][  0]LightingResults: New page: Lighting Build
+[2017.12.09-22.29.38:842][  0]MapCheck: New page: Map Check
+[2017.12.09-22.29.38:842][  0]LightingResults: New page: Lighting Build
+[2017.12.09-22.29.40:260][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/Materials/M_Rock'
+[2017.12.09-22.29.40:261][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/Materials/M_Rock' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Rise_Floor_M.uasset.
+[2017.12.09-22.29.40:261][  0]LoadErrors: Error: /Game/SideScrollerBP/3DModels/Rise_Floor_M : Can't find file for asset. /Game/StarterContent/Props/Materials/M_Rock
+[2017.12.09-22.29.40:262][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/Materials/M_Rock'
+[2017.12.09-22.29.40:262][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/Materials/M_Rock' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Rise_Floor_M.uasset.
+[2017.12.09-22.29.40:262][  0]LoadErrors: Error: /Game/SideScrollerBP/3DModels/Rise_Floor_M : Can't find file for asset. /Game/StarterContent/Props/Materials/M_Rock
+[2017.12.09-22.29.40:615][  0]LogBlueprint: Warning: [HighScoreSaveSlot] 'UserIndex' variable not found. Base class was probably changed.
+[2017.12.09-22.29.42:287][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/Materials/M_Rock'
+[2017.12.09-22.29.42:288][  0]LoadErrors: Failed to load /Game/StarterContent/Props/Materials/M_Rock.M_Rock Referenced by Rise_Floor_M
+[2017.12.09-22.29.42:288][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/Materials/M_Rock' while loading NULL.
+[2017.12.09-22.29.42:288][  0]LoadErrors: Failed to load /Game/StarterContent/Props/Materials/M_Rock.M_Rock Referenced by Rise_Floor_M
+[2017.12.09-22.29.42:288][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/Materials/M_Rock'
+[2017.12.09-22.29.42:288][  0]LoadErrors: Failed to load /Game/StarterContent/Props/Materials/M_Rock.M_Rock Referenced by Rise_Floor_M
+[2017.12.09-22.29.42:289][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/Materials/M_Rock' while loading NULL.
+[2017.12.09-22.29.42:289][  0]LoadErrors: Failed to load /Game/StarterContent/Props/Materials/M_Rock.M_Rock Referenced by Rise_Floor_M
+[2017.12.09-22.29.45:696][  0]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.12.09-22.29.46:180][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.09-22.29.46:537][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.09-22.29.46:620][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.647ms to complete.
+[2017.12.09-22.29.46:635][  0]LogFileHelpers: Loading map 'InfiniteJumper' took 7.966
+[2017.12.09-22.29.47:858][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.09-22.29.47:858][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.09-22.29.48:603][  0]LogCollectionManager: Loaded 0 collections in 0.002071 seconds
+[2017.12.09-22.29.48:788][  0]LogFileCache: Scanning file cache for directory 'C:/Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Collections/' took 0.01s
+[2017.12.09-22.29.48:788][  0]LogFileCache: Scanning file cache for directory 'C:/Users/isma0/Desktop/JuegoRise/JuegoRise/Content/Developers/isma0/Collections/' took 0.01s
+[2017.12.09-22.29.48:788][  0]LogFileCache: Scanning file cache for directory 'C:/Users/isma0/Desktop/JuegoRise/JuegoRise/Content/Collections/' took 0.01s
+[2017.12.09-22.29.48:789][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.09-22.29.48:808][  0]LogContentBrowser: Native class hierarchy populated in 0.0175 seconds. Added 2386 classes and 500 folders.
+[2017.12.09-22.29.49:000][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.12.09-22.29.51:890][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0019 seconds. Added 0 classes and 0 folders.
+[2017.12.09-22.29.52:032][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.09-22.29.53:229][  0]LogSlate: Took 0.013160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.09-22.29.53:250][  0]LogSlate: Took 0.018168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.09-22.29.53:290][  0]LogSlate: Took 0.015798 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.09-22.29.53:544][  0]LogRenderer: Reallocating scene render targets to support 964x448 Format 10 NumSamples 1 (Frame:1).
+[2017.12.09-22.29.54:377][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.09-22.29.54:377][  0]LogLoad: (Engine Initialization) Total time: 138.82 seconds
+[2017.12.09-22.29.54:377][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.09-22.29.54:392][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.09-22.29.54:532][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.09-22.29.55:089][  1]LogSlate: Took 0.061730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.09-22.29.55:698][  3]LogAssetRegistry: Asset discovery search completed in 111.2125 seconds
+[2017.12.09-22.29.55:710][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.09-22.29.55:711][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.011291 seconds (updated 0 objects)
+[2017.12.09-22.29.56:033][  4]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.09-22.32.21:165][356]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.09-22.32.28:323][514]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.09-22.32.28:493][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.32.28:499][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.09-22.32.28:690][514]PIE: New page: PIE session: InfiniteJumper (Dec 9, 2017, 2:32:28 PM)
+[2017.12.09-22.32.28:726][514]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.12.09-22.32.28:876][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149523s)
+[2017.12.09-22.32.28:877][514]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.12.09-22.32.28:877][514]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2017.12.09-22.32.28:884][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.173131s)
+[2017.12.09-22.32.28:912][514]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.09-22.32.28:947][514]LogInit: FAudioDevice initialized.
+[2017.12.09-22.32.29:053][514]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.12.09-22.32.29:248][514]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.12.09-18.32.29
+[2017.12.09-22.32.29:369][514]LogWorld: Bringing up level for play took: 0.136391
+[2017.12.09-22.32.29:648][514]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2017.12.09-22.32.30:045][514]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 1.78
+[2017.12.09-22.32.30:054][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.32.30:219][514]LogRenderer: Reallocating scene render targets to support 964x516 Format 10 NumSamples 1 (Frame:1).
+[2017.12.09-22.32.35:262][853]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] tap
+[2017.12.09-22.32.36:682][926]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.36:682][926]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.32.36:682][926]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.36:682][926]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.32.37:274][973]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.37:274][973]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.32.37:274][973]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.37:274][973]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.32.39:357][142]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.39:357][142]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] right
+[2017.12.09-22.32.39:358][142]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.32.39:358][142]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.39:358][142]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] right
+[2017.12.09-22.32.39:358][142]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.32.40:080][201]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.40:080][201]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.32.40:080][201]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.40:080][201]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.32.43:204][460]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.43:204][460]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.32.43:204][460]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.43:204][460]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.32.43:674][499]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.43:674][499]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.32.43:674][499]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.43:674][499]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.32.44:514][568]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.44:514][568]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.32.44:514][568]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.32.44:515][568]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.32.49:651][985]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.32.49:810][985]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.34.43:459][930]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.09-22.34.43:484][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.34.43:484][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.09-22.34.43:485][930]PIE: New page: PIE session: InfiniteJumper (Dec 9, 2017, 2:34:43 PM)
+[2017.12.09-22.34.43:485][930]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.12.09-22.34.43:511][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025427s)
+[2017.12.09-22.34.43:512][930]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.12.09-22.34.43:512][930]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2017.12.09-22.34.43:512][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.026878s)
+[2017.12.09-22.34.43:532][930]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.09-22.34.43:570][930]LogInit: FAudioDevice initialized.
+[2017.12.09-22.34.43:621][930]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.12.09-22.34.43:628][930]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.12.09-18.34.43
+[2017.12.09-22.34.43:630][930]LogWorld: Bringing up level for play took: 0.007318
+[2017.12.09-22.34.43:668][930]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper -0.598
+[2017.12.09-22.34.43:668][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.34.47:795][238]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.34.47:795][238]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.34.48:321][281]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.34.48:321][281]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.34.51:665][554]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.34.51:665][554]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] right
+[2017.12.09-22.34.51:666][554]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.34.54:031][747]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.34.54:032][747]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.34.55:098][834]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.34.55:098][834]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.34.55:160][839]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.34.55:160][839]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.34.56:756][969]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.34.56:756][969]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] right
+[2017.12.09-22.34.56:756][969]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.34.57:246][  5]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.34.57:246][  5]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.34.58:859][136]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.34.58:859][136]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.34.59:654][199]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.34.59:654][199]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.35.01:482][341]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.35.01:482][341]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.35.01:482][341]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.35.03:260][483]LogNet: Browse: /Game/SideScrollerBP/Maps/InfiniteJumper
+[2017.12.09-22.35.03:277][483]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/InfiniteJumper
+[2017.12.09-22.35.03:409][483]Cmd: MEM
+[2017.12.09-22.35.03:659][483]LogMemory: Platform Memory Stats for Windows
+[2017.12.09-22.35.03:659][483]LogMemory: Process Physical Memory: 1656.61 MB used, 1689.47 MB peak
+[2017.12.09-22.35.03:659][483]LogMemory: Process Virtual Memory: 2500.99 MB used, 2512.53 MB peak
+[2017.12.09-22.35.03:659][483]LogMemory: Physical Memory: 5872.60 MB used,  6279.35 MB free, 12151.95 MB total
+[2017.12.09-22.35.03:659][483]LogMemory: Virtual Memory: 3425.33 MB used,  6279.35 MB free, 134217728.00 MB total
+[2017.12.09-22.35.03:659][483]LogMemory: 
+[2017.12.09-22.35.03:659][483]Allocator Stats for TBB: (not implemented)
+[2017.12.09-22.35.03:685][483]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.12.09-22.35.03:703][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017937s)
+[2017.12.09-22.35.03:705][483]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.12.09-22.35.03:705][483]LogPlayLevel: PIE: World Init took: (0.001616s)
+[2017.12.09-22.35.03:706][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.020230s)
+[2017.12.09-22.35.03:706][483]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.12.09-22.35.03:729][483]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.12.09-18.35.03
+[2017.12.09-22.35.03:730][483]LogWorld: Bringing up level for play took: 0.022511
+[2017.12.09-22.35.03:842][483]LogLoad: Took 0.564734 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper)
+[2017.12.09-22.35.14:215][334]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.35.14:237][336]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.35.14:272][339]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.35.30:864][702]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.35.30:864][702]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.35.33:194][892]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.35.33:194][892]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.35.35:276][ 62]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.35.35:276][ 62]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] right
+[2017.12.09-22.35.35:276][ 62]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.35.35:753][101]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.35.35:753][101]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] right
+[2017.12.09-22.35.35:753][101]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.35.36:770][184]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.35.36:770][184]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.35.36:770][184]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.35.38:409][318]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.35.38:409][318]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] right
+[2017.12.09-22.35.38:410][318]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.35.39:857][436]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.35.39:857][436]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.35.45:350][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.35.45:468][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.36.39:066][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:066][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_TriPyramid.uasset.
+[2017.12.09-22.36.39:066][284]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_TriPyramid : Can't find file for asset. /Game/StarterContent/Materials/M_Basic_Wall
+[2017.12.09-22.36.39:066][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:066][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_TriPyramid.uasset.
+[2017.12.09-22.36.39:067][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:067][284]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_TriPyramid
+[2017.12.09-22.36.39:067][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2017.12.09-22.36.39:110][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:110][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset.
+[2017.12.09-22.36.39:110][284]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Trim_90_Out : Can't find file for asset. /Game/StarterContent/Materials/M_Basic_Wall
+[2017.12.09-22.36.39:110][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:110][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset.
+[2017.12.09-22.36.39:111][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:111][284]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Trim_90_Out
+[2017.12.09-22.36.39:111][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2017.12.09-22.36.39:143][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:143][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset.
+[2017.12.09-22.36.39:143][284]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Trim_90_In : Can't find file for asset. /Game/StarterContent/Materials/M_Basic_Wall
+[2017.12.09-22.36.39:143][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:144][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset.
+[2017.12.09-22.36.39:144][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:144][284]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Trim_90_In
+[2017.12.09-22.36.39:144][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2017.12.09-22.36.39:167][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:167][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Trim.uasset.
+[2017.12.09-22.36.39:167][284]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Trim : Can't find file for asset. /Game/StarterContent/Materials/M_Basic_Wall
+[2017.12.09-22.36.39:168][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:168][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Trim.uasset.
+[2017.12.09-22.36.39:168][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:168][284]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Trim
+[2017.12.09-22.36.39:169][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2017.12.09-22.36.39:224][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:225][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Torus.uasset.
+[2017.12.09-22.36.39:225][284]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Torus : Can't find file for asset. /Game/StarterContent/Materials/M_Basic_Wall
+[2017.12.09-22.36.39:225][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:225][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Torus.uasset.
+[2017.12.09-22.36.39:226][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:226][284]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Torus
+[2017.12.09-22.36.39:226][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2017.12.09-22.36.39:245][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:245][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Wedge_B.uasset.
+[2017.12.09-22.36.39:245][284]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Wedge_B : Can't find file for asset. /Game/StarterContent/Materials/M_Basic_Wall
+[2017.12.09-22.36.39:245][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:245][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Wedge_B.uasset.
+[2017.12.09-22.36.39:246][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:246][284]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Wedge_B
+[2017.12.09-22.36.39:246][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2017.12.09-22.36.39:250][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:250][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Wedge_A.uasset.
+[2017.12.09-22.36.39:250][284]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Wedge_A : Can't find file for asset. /Game/StarterContent/Materials/M_Basic_Wall
+[2017.12.09-22.36.39:250][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:250][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Wedge_A.uasset.
+[2017.12.09-22.36.39:251][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:251][284]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Wedge_A
+[2017.12.09-22.36.39:251][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2017.12.09-22.36.39:256][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:256][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Cube.uasset.
+[2017.12.09-22.36.39:256][284]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cube : Can't find file for asset. /Game/StarterContent/Materials/M_Basic_Wall
+[2017.12.09-22.36.39:256][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:256][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Cube.uasset.
+[2017.12.09-22.36.39:257][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:257][284]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cube
+[2017.12.09-22.36.39:257][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2017.12.09-22.36.39:269][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:269][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Pipe.uasset.
+[2017.12.09-22.36.39:269][284]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Pipe : Can't find file for asset. /Game/StarterContent/Materials/M_Basic_Wall
+[2017.12.09-22.36.39:270][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:270][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Pipe.uasset.
+[2017.12.09-22.36.39:271][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:271][284]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Pipe
+[2017.12.09-22.36.39:271][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2017.12.09-22.36.39:285][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:285][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Pipe_90.uasset.
+[2017.12.09-22.36.39:285][284]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Pipe_90 : Can't find file for asset. /Game/StarterContent/Materials/M_Basic_Wall
+[2017.12.09-22.36.39:285][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:286][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Pipe_90.uasset.
+[2017.12.09-22.36.39:286][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:286][284]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Pipe_90
+[2017.12.09-22.36.39:287][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2017.12.09-22.36.39:313][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:313][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Pipe_180.uasset.
+[2017.12.09-22.36.39:313][284]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Pipe_180 : Can't find file for asset. /Game/StarterContent/Materials/M_Basic_Wall
+[2017.12.09-22.36.39:313][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:313][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_Pipe_180.uasset.
+[2017.12.09-22.36.39:314][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:314][284]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Pipe_180
+[2017.12.09-22.36.39:314][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2017.12.09-22.36.39:335][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:335][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset.
+[2017.12.09-22.36.39:335][284]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_QuadPyramid : Can't find file for asset. /Game/StarterContent/Materials/M_Basic_Wall
+[2017.12.09-22.36.39:335][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:335][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset.
+[2017.12.09-22.36.39:336][284]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Wall'
+[2017.12.09-22.36.39:336][284]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_QuadPyramid
+[2017.12.09-22.36.39:336][284]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2017.12.09-22.36.48:837][576]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.09-22.36.48:855][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.36.48:855][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.09-22.36.48:855][576]PIE: New page: PIE session: InfiniteJumper (Dec 9, 2017, 2:36:48 PM)
+[2017.12.09-22.36.48:855][576]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.12.09-22.36.48:874][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018468s)
+[2017.12.09-22.36.48:875][576]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.12.09-22.36.48:875][576]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2017.12.09-22.36.48:875][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.020081s)
+[2017.12.09-22.36.48:898][576]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.09-22.36.48:936][576]LogInit: FAudioDevice initialized.
+[2017.12.09-22.36.48:990][576]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.12.09-22.36.49:010][576]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.12.09-18.36.49
+[2017.12.09-22.36.49:012][576]LogWorld: Bringing up level for play took: 0.017118
+[2017.12.09-22.36.49:047][576]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 0.781
+[2017.12.09-22.36.49:047][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.36.54:415][  1]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.36.54:415][  1]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.36.55:782][114]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.36.55:782][114]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.36.55:818][117]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.36.55:818][117]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.36.58:506][339]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.36.58:506][339]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] right
+[2017.12.09-22.37.00:053][467]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.37.00:053][467]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.37.05:977][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.37.06:010][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.41.47:179][820]LogMaterial: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2017.12.09-22.41.47:199][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Grime.M_Concrete_Grime for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:199][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:232][820]LogMaterial: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2017.12.09-22.41.47:233][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Rust.M_Metal_Rust for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:233][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:237][820]LogMaterial: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2017.12.09-22.41.47:237][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Rust.M_Metal_Rust for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:237][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:268][820]LogMaterial: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2017.12.09-22.41.47:269][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_explosion_subUV.M_explosion_subUV for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:269][820]LogMaterial: Warning: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2017.12.09-22.41.47:272][820]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2017.12.09-22.41.47:272][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:273][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:273][820]LogMaterial: Warning: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2017.12.09-22.41.47:274][820]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2017.12.09-22.41.47:275][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:275][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:275][820]LogMaterial: Warning: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2017.12.09-22.41.47:296][820]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2017.12.09-22.41.47:296][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Steel.M_Metal_Steel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:296][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:299][820]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2017.12.09-22.41.47:299][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Steel.M_Metal_Steel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:299][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:320][820]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2017.12.09-22.41.47:321][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:321][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:323][820]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2017.12.09-22.41.47:324][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:324][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:435][820]LogMaterial: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2017.12.09-22.41.47:436][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Gold.M_Metal_Gold for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:436][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:438][820]LogMaterial: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2017.12.09-22.41.47:439][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Gold.M_Metal_Gold for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:439][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:461][820]LogMaterial: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2017.12.09-22.41.47:461][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Checker_Dot.M_Tech_Checker_Dot for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:461][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:463][820]LogMaterial: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2017.12.09-22.41.47:464][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Checker_Dot.M_Tech_Checker_Dot for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:464][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:466][820]LogMaterial: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2017.12.09-22.41.47:467][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Checker_Dot.M_Tech_Checker_Dot for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:467][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:470][820]LogMaterial: Missing cached shader map for material M_Spark, compiling. 
+[2017.12.09-22.41.47:470][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_Spark.M_Spark for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:470][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:491][820]LogMaterial: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2017.12.09-22.41.47:492][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Marble_Polished.M_Rock_Marble_Polished for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:492][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:517][820]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2017.12.09-22.41.47:518][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Copper.M_Metal_Copper for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:518][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:520][820]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2017.12.09-22.41.47:520][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Copper.M_Metal_Copper for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:520][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:524][820]LogMaterial: Missing cached shader map for material M_Heat_Distortion, compiling. 
+[2017.12.09-22.41.47:524][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_Heat_Distortion.M_Heat_Distortion for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:525][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:551][820]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2017.12.09-22.41.47:551][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Gravel.M_Ground_Gravel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:551][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:553][820]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2017.12.09-22.41.47:554][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Gravel.M_Ground_Gravel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:554][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:556][820]LogMaterial: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2017.12.09-22.41.47:556][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:556][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:556][820]LogMaterial: Warning: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2017.12.09-22.41.47:558][820]LogMaterial: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2017.12.09-22.41.47:559][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:559][820]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.09-22.41.47:559][820]LogMaterial: Warning: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2017.12.09-22.41.47:561][820]LogMaterial: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2017.12.09-22.41.47:561][820]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_Dust_Particle.M_Dust_Particle for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-22.41.47:561][820]LogMaterial: Warning: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2017.12.09-22.41.50:607][820]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.09-22.42.02:264][420]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.09-22.42.02:285][420]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.42.02:285][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.09-22.42.02:285][420]PIE: New page: PIE session: InfiniteJumper (Dec 9, 2017, 2:42:02 PM)
+[2017.12.09-22.42.02:286][420]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.12.09-22.42.02:304][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018533s)
+[2017.12.09-22.42.02:305][420]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.12.09-22.42.02:306][420]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2017.12.09-22.42.02:306][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.020397s)
+[2017.12.09-22.42.02:326][420]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.09-22.42.02:359][420]LogInit: FAudioDevice initialized.
+[2017.12.09-22.42.02:404][420]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.12.09-22.42.02:406][420]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.12.09-18.42.02
+[2017.12.09-22.42.02:408][420]LogWorld: Bringing up level for play took: 0.003239
+[2017.12.09-22.42.02:438][420]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 0.172
+[2017.12.09-22.42.02:438][420]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.42.05:860][695]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] tap
+[2017.12.09-22.42.07:998][870]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] tap
+[2017.12.09-22.42.09:696][  9]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.42.09:696][  9]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.42.10:171][ 48]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.42.10:171][ 48]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.42.13:911][354]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.42.13:911][354]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] right
+[2017.12.09-22.42.13:911][354]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.42.15:675][498]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.42.15:675][498]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.42.18:577][735]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.42.18:577][735]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.42.18:577][735]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.42.21:126][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.42.21:180][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.42.52:340][165]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/InfiniteJumper' took 0.015
+[2017.12.09-22.42.52:408][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/3DModels/Greek_Pillar] ([1] browsable assets)...
+[2017.12.09-22.42.52:489][165]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SideScrollerBP/3DModels/Greek_Pillar.Greek_Pillar]
+[2017.12.09-22.42.52:489][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/3DModels/Greek_Pillar]
+[2017.12.09-22.42.52:646][165]LogSavePackage: Save=124.59ms
+[2017.12.09-22.42.52:646][165]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Greek_Pillar_Auto194AB369C4141B3A6C18269A64657F2D4.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/3DModels/Greek_Pillar_Auto1.uasset'
+[2017.12.09-22.42.52:650][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/3DModels/Greek_Pillar_Auto1.uasset
+[2017.12.09-22.42.52:653][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/3DModels/Rise_Floor_M] ([1] browsable assets)...
+[2017.12.09-22.42.52:708][165]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SideScrollerBP/3DModels/Rise_Floor_M.Rise_Floor_M]
+[2017.12.09-22.42.52:708][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/3DModels/Rise_Floor_M]
+[2017.12.09-22.42.52:730][165]LogSavePackage: Save=13.51ms
+[2017.12.09-22.42.52:730][165]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Rise_Floor_M_Auto1EC62BAE84EEF101402D4F08D793681B7.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/3DModels/Rise_Floor_M_Auto1.uasset'
+[2017.12.09-22.42.52:733][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/3DModels/Rise_Floor_M_Auto1.uasset
+[2017.12.09-22.42.52:735][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/PowerUpsAndCoins/BP_PUp_Camara] ([1] browsable assets)...
+[2017.12.09-22.42.52:791][165]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/PowerUpsAndCoins/BP_PUp_Camara.BP_PUp_Camara]
+[2017.12.09-22.42.52:791][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/PowerUpsAndCoins/BP_PUp_Camara]
+[2017.12.09-22.42.52:866][165]LogSavePackage: Save=64.39ms
+[2017.12.09-22.42.52:866][165]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/BP_PUp_Camara_Auto10AC0DC1443A3263E7B730D9275C08A1B.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/Blueprints/PowerUpsAndCoins/BP_PUp_Camara_Auto1.uasset'
+[2017.12.09-22.42.52:869][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/Blueprints/PowerUpsAndCoins/BP_PUp_Camara_Auto1.uasset
+[2017.12.09-22.42.52:872][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/P_Explosion] ([1] browsable assets)...
+[2017.12.09-22.42.52:884][165]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/StarterContent/Particles/P_Explosion.P_Explosion]
+[2017.12.09-22.42.52:884][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/P_Explosion]
+[2017.12.09-22.42.53:010][165]LogSavePackage: Save=117.21ms
+[2017.12.09-22.42.53:010][165]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/P_Explosion_Auto1DE6908B8476FD4D56BEF3A8A0F937D66.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/StarterContent/Particles/P_Explosion_Auto1.uasset'
+[2017.12.09-22.42.53:013][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/StarterContent/Particles/P_Explosion_Auto1.uasset
+[2017.12.09-22.42.53:015][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/3DModels/Spiked_Log] ([1] browsable assets)...
+[2017.12.09-22.42.53:068][165]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SideScrollerBP/3DModels/Spiked_Log.Spiked_Log]
+[2017.12.09-22.42.53:069][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/3DModels/Spiked_Log]
+[2017.12.09-22.42.53:095][165]LogSavePackage: Save=16.95ms
+[2017.12.09-22.42.53:096][165]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Spiked_Log_Auto1E486134E44A0C662CB37C68840969C3D.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/3DModels/Spiked_Log_Auto1.uasset'
+[2017.12.09-22.42.53:098][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/3DModels/Spiked_Log_Auto1.uasset
+[2017.12.09-22.42.53:100][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft] ([1] browsable assets)...
+[2017.12.09-22.42.53:153][165]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft.SpikeSoloLeft]
+[2017.12.09-22.42.53:153][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft]
+[2017.12.09-22.42.53:191][165]LogSavePackage: Save=28.95ms
+[2017.12.09-22.42.53:191][165]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/SpikeSoloLeft_Auto150C308984F851266FD22D3985796BA7D.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft_Auto1.uasset'
+[2017.12.09-22.42.53:194][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft_Auto1.uasset
+[2017.12.09-22.42.53:196][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloRight] ([1] browsable assets)...
+[2017.12.09-22.42.53:251][165]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloRight.SpikeSoloRight]
+[2017.12.09-22.42.53:251][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloRight]
+[2017.12.09-22.42.53:290][165]LogSavePackage: Save=28.73ms
+[2017.12.09-22.42.53:290][165]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/SpikeSoloRight_Auto1D32C4F894EFC022F31D1D180EA5612CB.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloRight_Auto1.uasset'
+[2017.12.09-22.42.53:294][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Spikes/SpikeSoloRight_Auto1.uasset
+[2017.12.09-22.42.53:295][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/3DModels/Shoes] ([1] browsable assets)...
+[2017.12.09-22.42.53:347][165]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SideScrollerBP/3DModels/Shoes.Shoes]
+[2017.12.09-22.42.53:347][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/3DModels/Shoes]
+[2017.12.09-22.42.53:373][165]LogSavePackage: Save=12.67ms
+[2017.12.09-22.42.53:373][165]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Shoes_Auto1D17402544C1BE22FD035419FCAB3DA74.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/3DModels/Shoes_Auto1.uasset'
+[2017.12.09-22.42.53:375][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Autosaves/Game/SideScrollerBP/3DModels/Shoes_Auto1.uasset
+[2017.12.09-22.42.53:375][165]LogFileHelpers: Auto-saving content packages took 0.998
+[2017.12.09-22.44.06:151][ 33]LogEditorViewport: Clicking on Actor (LMB): SpikeLog_C (SpikeLog)
+[2017.12.09-22.44.11:650][321]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2017.12.09-22.44.13:481][321]LogSlate: Took 0.028885 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.09-22.44.13:924][322]LogSlate: Took 0.018050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.09-22.44.16:607][500]LogRenderer: Reallocating scene render targets to support 1048x560 Format 10 NumSamples 1 (Frame:1).
+[2017.12.09-22.45.33:434][738]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.09-22.45.33:464][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.45.33:520][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.09-22.45.33:520][738]PIE: New page: PIE session: InfiniteJumper (Dec 9, 2017, 2:45:33 PM)
+[2017.12.09-22.45.33:520][738]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.12.09-22.45.33:538][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017989s)
+[2017.12.09-22.45.33:539][738]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.12.09-22.45.33:539][738]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2017.12.09-22.45.33:540][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.020538s)
+[2017.12.09-22.45.33:891][738]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.09-22.45.33:922][738]LogInit: FAudioDevice initialized.
+[2017.12.09-22.45.33:967][738]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.12.09-22.45.33:970][738]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.12.09-18.45.33
+[2017.12.09-22.45.33:971][738]LogWorld: Bringing up level for play took: 0.003524
+[2017.12.09-22.45.34:011][738]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper -0.255
+[2017.12.09-22.45.34:011][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.45.39:456][ 22]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] tap
+[2017.12.09-22.45.42:641][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.45.42:759][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.45.49:848][632]LogSavePackage: Save=110.55ms
+[2017.12.09-22.45.49:849][632]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/SpikeLog4534B5AB4C2D56376250C9B825E9AEC0.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset'
+[2017.12.09-22.45.49:854][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/Blueprints/Spikes/SpikeLog.uasset
+[2017.12.09-22.46.02:947][344]LogRenderer: Reallocating scene render targets to support 1048x564 Format 10 NumSamples 1 (Frame:1).
+[2017.12.09-22.46.27:304][198]LogSavePackage: Save=20.11ms
+[2017.12.09-22.46.27:304][198]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/SpikeSoloLeftDCE4ACF94ACC51B679464E8B26FAD668.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft.uasset'
+[2017.12.09-22.46.27:310][198]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/Blueprints/Spikes/SpikeSoloLeft.uasset
+[2017.12.09-22.46.49:975][991]LogSavePackage: Save=19.57ms
+[2017.12.09-22.46.49:975][991]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/SpikeSoloRight9AE397F2469B809A8E59D0AB9EA070AD.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/Blueprints/Spikes/SpikeSoloRight.uasset'
+[2017.12.09-22.46.49:981][991]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/Blueprints/Spikes/SpikeSoloRight.uasset
+[2017.12.09-22.46.53:213][219]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.09-22.46.53:232][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.46.53:232][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.09-22.46.53:232][219]PIE: New page: PIE session: InfiniteJumper (Dec 9, 2017, 2:46:53 PM)
+[2017.12.09-22.46.53:232][219]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.12.09-22.46.53:250][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017317s)
+[2017.12.09-22.46.53:250][219]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.12.09-22.46.53:251][219]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2017.12.09-22.46.53:251][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.018876s)
+[2017.12.09-22.46.53:390][219]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.09-22.46.53:421][219]LogInit: FAudioDevice initialized.
+[2017.12.09-22.46.53:476][219]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.12.09-22.46.53:480][219]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.12.09-18.46.53
+[2017.12.09-22.46.53:482][219]LogWorld: Bringing up level for play took: 0.005251
+[2017.12.09-22.46.53:530][219]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper 1.265
+[2017.12.09-22.46.53:531][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.46.57:890][564]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] tap
+[2017.12.09-22.46.59:699][712]LogNet: Browse: /Game/SideScrollerBP/Maps/InfiniteJumper
+[2017.12.09-22.46.59:710][712]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/InfiniteJumper
+[2017.12.09-22.46.59:750][712]Cmd: MEM
+[2017.12.09-22.46.59:770][712]LogMemory: Platform Memory Stats for Windows
+[2017.12.09-22.46.59:770][712]LogMemory: Process Physical Memory: 2090.41 MB used, 2471.89 MB peak
+[2017.12.09-22.46.59:770][712]LogMemory: Process Virtual Memory: 3235.66 MB used, 3656.55 MB peak
+[2017.12.09-22.46.59:770][712]LogMemory: Physical Memory: 6308.57 MB used,  5843.38 MB free, 12151.95 MB total
+[2017.12.09-22.46.59:770][712]LogMemory: Virtual Memory: 4239.70 MB used,  5843.38 MB free, 134217728.00 MB total
+[2017.12.09-22.46.59:770][712]LogMemory: 
+[2017.12.09-22.46.59:770][712]Allocator Stats for TBB: (not implemented)
+[2017.12.09-22.46.59:770][712]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper
+[2017.12.09-22.46.59:785][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014176s)
+[2017.12.09-22.46.59:786][712]LogAIModule: Creating AISystem for world InfiniteJumper
+[2017.12.09-22.46.59:786][712]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2017.12.09-22.46.59:786][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper to /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper (0.015674s)
+[2017.12.09-22.46.59:786][712]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.12.09-22.46.59:796][712]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper.InfiniteJumper up for play (max tick rate 0) at 2017.12.09-18.46.59
+[2017.12.09-22.46.59:796][712]LogWorld: Bringing up level for play took: 0.009799
+[2017.12.09-22.46.59:876][712]LogLoad: Took 0.165951 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_InfiniteJumper)
+[2017.12.09-22.47.03:903][ 33]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.03:903][ 33]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.47.03:903][ 33]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.04:537][ 85]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.04:537][ 85]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.04:586][ 89]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.04:586][ 89]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.04:599][ 90]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.04:599][ 90]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.05:404][156]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.05:404][156]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.05:429][158]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.05:429][158]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.06:881][276]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.06:881][276]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.07:866][357]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.07:866][357]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.09:190][464]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.09:190][464]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.47.09:190][464]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.10:113][539]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.10:113][539]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.10:713][588]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.10:713][588]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] right
+[2017.12.09-22.47.10:714][588]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.12:420][726]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.12:420][726]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] left
+[2017.12.09-22.47.12:420][726]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.13:339][802]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.13:339][802]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.14:597][905]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.14:598][905]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] right
+[2017.12.09-22.47.14:987][937]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.14:987][937]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.47.17:196][118]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] swipe
+[2017.12.09-22.47.17:196][118]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] jump
+[2017.12.09-22.48.46:444][420]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.48.46:487][420]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper' with GeneratedClass '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/InfiniteJumper.InfiniteJumper:PersistentLevel.InfiniteJumper'
+[2017.12.09-22.48.51:325][727]LogSavePackage: Save=696.91ms
+[2017.12.09-22.48.51:325][727]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/InfiniteJumper6442644D47CB20D9234A4C86FB57BBE5.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/Maps/InfiniteJumper.umap'
+[2017.12.09-22.48.51:331][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/Maps/InfiniteJumper.umap
+[2017.12.09-22.48.51:399][727]LogFileHelpers: Saving map 'InfiniteJumper' took 0.916
+[2017.12.09-22.48.51:403][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/3DModels/Greek_Pillar" FILE="../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Greek_Pillar.uasset" SILENT=true
+[2017.12.09-22.48.51:419][727]LogSavePackage: Save=4.76ms
+[2017.12.09-22.48.51:419][727]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Greek_PillarDD0148914817E7C47E4E78A7CE10A05C.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Greek_Pillar.uasset'
+[2017.12.09-22.48.51:424][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Greek_Pillar.uasset
+[2017.12.09-22.48.51:428][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/3DModels/Rise_Floor_M" FILE="../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Rise_Floor_M.uasset" SILENT=true
+[2017.12.09-22.48.51:443][727]LogSavePackage: Save=4.15ms
+[2017.12.09-22.48.51:443][727]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Rise_Floor_M0A68C40F4C25145538850CB6800F7548.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Rise_Floor_M.uasset'
+[2017.12.09-22.48.51:448][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Rise_Floor_M.uasset
+[2017.12.09-22.48.51:495][727]LogSavePackage: Save=28.54ms
+[2017.12.09-22.48.51:495][727]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/BP_PUp_Camara6CB6E7AD4EF6A6DE855CCD8CA7A439E9.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/Blueprints/PowerUpsAndCoins/BP_PUp_Camara.uasset'
+[2017.12.09-22.48.51:500][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/Blueprints/PowerUpsAndCoins/BP_PUp_Camara.uasset
+[2017.12.09-22.48.51:504][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Explosion" FILE="../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Particles/P_Explosion.uasset" SILENT=true
+[2017.12.09-22.48.51:578][727]LogSavePackage: Save=60.07ms
+[2017.12.09-22.48.51:579][727]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/P_ExplosionE31B71A64A13AAEA66443AA5430BF6B5.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Particles/P_Explosion.uasset'
+[2017.12.09-22.48.51:584][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/StarterContent/Particles/P_Explosion.uasset
+[2017.12.09-22.48.51:589][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/3DModels/Spiked_Log" FILE="../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Spiked_Log.uasset" SILENT=true
+[2017.12.09-22.48.51:606][727]LogSavePackage: Save=7.76ms
+[2017.12.09-22.48.51:606][727]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Spiked_Log18D83B18409F0635EE7976A6C52ECBD3.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Spiked_Log.uasset'
+[2017.12.09-22.48.51:611][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Spiked_Log.uasset
+[2017.12.09-22.48.51:616][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/3DModels/Shoes" FILE="../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Shoes.uasset" SILENT=true
+[2017.12.09-22.48.51:631][727]LogSavePackage: Save=4.51ms
+[2017.12.09-22.48.51:631][727]LogSavePackage: Moving '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Shoes224216414CDD91E045CACFAB93F376CF.tmp' to '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Shoes.uasset'
+[2017.12.09-22.48.51:636][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/SideScrollerBP/3DModels/Shoes.uasset
+[2017.12.09-22.48.56:219][981]Cmd: QUIT_EDITOR
+[2017.12.09-22.48.56:942][981]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.09-22.48.56:943][981]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.09-22.48.57:053][981]LogExit: Preparing to exit.
+[2017.12.09-22.48.57:617][981]LogDirectoryWatcher: A directory notification for 'C:/Users/isma0/Desktop/JuegoRise/JuegoRise/Content/' was aborted.
+[2017.12.09-22.48.57:757][981]LogExit: Editor shut down
+[2017.12.09-22.48.57:765][981]LogExit: Transaction tracking system shut down
+[2017.12.09-22.48.58:007][981]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.09-22.48.58:007][981]LogDirectoryWatcher: A directory notification for '../../../../../../Users/isma0/Desktop/JuegoRise/JuegoRise/Content/' was aborted.
+[2017.12.09-22.48.58:007][981]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.09-22.48.58:007][981]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.09-22.48.58:007][981]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.09-22.48.59:695][981]LogExit: Object subsystem successfully closed.
+[2017.12.09-22.48.59:901][981]LogD3D11RHI: Shutdown
+[2017.12.09-22.48.59:913][981]LogD3D11RHI: CleanupD3DDevice
+[2017.12.09-22.49.00:150][981]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.09-22.49.01:185][981]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2017.12.09-22.49.01:185][981]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (536)
+[2017.12.09-22.49.01:208][981]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (534)
+[2017.12.09-22.49.01:218][981]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.12.09-22.49.01:218][981]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.12.09-22.49.01:218][981]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.12.09-22.49.01:234][981]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.12.09-22.49.01:243][981]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.12.09-22.49.01:247][981]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.12.09-22.49.01:247][981]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.12.09-22.49.01:247][981]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.12.09-22.49.01:257][981]LogDirectoryWatcher: A directory notification for 'C:/Users/isma0/Desktop/JuegoRise/JuegoRise/Content/Collections/' was aborted.
+[2017.12.09-22.49.01:258][981]LogDirectoryWatcher: A directory notification for 'C:/Users/isma0/Desktop/JuegoRise/JuegoRise/Content/Developers/isma0/Collections/' was aborted.
+[2017.12.09-22.49.01:258][981]LogDirectoryWatcher: A directory notification for 'C:/Users/isma0/Desktop/JuegoRise/JuegoRise/Saved/Collections/' was aborted.
+[2017.12.09-22.49.01:258][981]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.12.09-22.49.01:273][981]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.12.09-22.49.01:274][981]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.12.09-22.49.01:302][981]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.12.09-22.49.01:302][981]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.12.09-22.49.01:303][981]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.12.09-22.49.01:303][981]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.12.09-22.49.01:303][981]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.12.09-22.49.01:303][981]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.12.09-22.49.01:312][981]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.12.09-22.49.01:312][981]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.12.09-22.49.01:312][981]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.12.09-22.49.01:325][981]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.12.09-22.49.01:335][981]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.12.09-22.49.01:349][981]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.12.09-22.49.01:378][981]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.12.09-22.49.01:378][981]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.12.09-22.49.01:378][981]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.12.09-22.49.01:379][981]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.12.09-22.49.01:379][981]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.12.09-22.49.01:379][981]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.12.09-22.49.01:379][981]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.12.09-22.49.01:379][981]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.12.09-22.49.01:379][981]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.12.09-22.49.01:379][981]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.12.09-22.49.01:379][981]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.12.09-22.49.01:389][981]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.12.09-22.49.01:389][981]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.12.09-22.49.01:389][981]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.12.09-22.49.01:389][981]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.12.09-22.49.01:389][981]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.12.09-22.49.01:412][981]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.12.09-22.49.01:432][981]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.12.09-22.49.01:462][981]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.12.09-22.49.01:483][981]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.12.09-22.49.01:498][981]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.12.09-22.49.01:498][981]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.12.09-22.49.01:498][981]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.12.09-22.49.02:021][981]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.12.09-22.49.02:021][981]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.12.09-22.49.02:021][981]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.12.09-22.49.02:021][981]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.12.09-22.49.02:040][981]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.12.09-22.49.02:050][981]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.12.09-22.49.02:050][981]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.12.09-22.49.02:069][981]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.12.09-22.49.02:069][981]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.12.09-22.49.02:080][981]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.12.09-22.49.02:092][981]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.12.09-22.49.02:092][981]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.12.09-22.49.02:102][981]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.12.09-22.49.02:103][981]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.12.09-22.49.02:115][981]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.12.09-22.49.02:115][981]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.12.09-22.49.02:115][981]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.12.09-22.49.02:116][981]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.12.09-22.49.02:116][981]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.12.09-22.49.02:139][981]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.12.09-22.49.02:148][981]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.12.09-22.49.02:160][981]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.12.09-22.49.02:171][981]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.12.09-22.49.02:188][981]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.12.09-22.49.02:241][981]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.12.09-22.49.02:250][981]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.12.09-22.49.02:284][981]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.12.09-22.49.02:312][981]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.12.09-22.49.02:312][981]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.12.09-22.49.02:327][981]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.12.09-22.49.02:329][981]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.12.09-22.49.02:355][981]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.12.09-22.49.02:355][981]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.12.09-22.49.02:360][981]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.12.09-22.49.02:381][981]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.12.09-22.49.02:381][981]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.12.09-22.49.02:381][981]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.12.09-22.49.02:418][981]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.12.09-22.49.02:448][981]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.12.09-22.49.02:463][981]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.12.09-22.49.02:474][981]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.12.09-22.49.02:474][981]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.12.09-22.49.02:474][981]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.12.09-22.49.02:474][981]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.12.09-22.49.02:474][981]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.12.09-22.49.02:508][981]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.12.09-22.49.02:508][981]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.12.09-22.49.02:508][981]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.12.09-22.49.02:508][981]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.12.09-22.49.02:508][981]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.12.09-22.49.02:508][981]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.12.09-22.49.02:508][981]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.12.09-22.49.02:509][981]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.12.09-22.49.02:509][981]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.12.09-22.49.02:515][981]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.12.09-22.49.02:662][981]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.12.09-22.49.02:722][981]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.12.09-22.49.02:722][981]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.12.09-22.49.02:722][981]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.12.09-22.49.02:722][981]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.12.09-22.49.02:733][981]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.12.09-22.49.02:733][981]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.12.09-22.49.02:733][981]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.12.09-22.49.02:746][981]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.12.09-22.49.02:747][981]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.12.09-22.49.02:747][981]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.12.09-22.49.02:775][981]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.12.09-22.49.02:775][981]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.12.09-22.49.02:783][981]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.12.09-22.49.02:783][981]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.12.09-22.49.02:783][981]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.12.09-22.49.02:784][981]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.12.09-22.49.02:784][981]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.12.09-22.49.02:813][981]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.12.09-22.49.02:828][981]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.12.09-22.49.02:828][981]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.12.09-22.49.02:839][981]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.12.09-22.49.02:839][981]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.12.09-22.49.02:854][981]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.12.09-22.49.02:867][981]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.12.09-22.49.02:879][981]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.12.09-22.49.02:896][981]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.12.09-22.49.02:896][981]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.12.09-22.49.02:896][981]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.12.09-22.49.02:896][981]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.12.09-22.49.02:906][981]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.12.09-22.49.02:912][981]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.12.09-22.49.02:926][981]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.12.09-22.49.02:945][981]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.12.09-22.49.02:945][981]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.12.09-22.49.02:959][981]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.12.09-22.49.02:959][981]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.12.09-22.49.02:959][981]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.12.09-22.49.02:959][981]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.12.09-22.49.02:959][981]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.12.09-22.49.02:959][981]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.12.09-22.49.02:959][981]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.12.09-22.49.02:973][981]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.12.09-22.49.03:074][981]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.12.09-22.49.03:175][981]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.12.09-22.49.03:190][981]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.12.09-22.49.03:190][981]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.12.09-22.49.03:190][981]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.12.09-22.49.03:198][981]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.12.09-22.49.03:198][981]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.12.09-22.49.03:199][981]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.12.09-22.49.03:199][981]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.12.09-22.49.03:207][981]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.12.09-22.49.03:221][981]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.12.09-22.49.03:239][981]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.12.09-22.49.03:239][981]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.12.09-22.49.03:239][981]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.12.09-22.49.03:255][981]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.12.09-22.49.03:255][981]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.12.09-22.49.03:255][981]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.12.09-22.49.03:256][981]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.12.09-22.49.03:287][981]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.12.09-22.49.03:300][981]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.12.09-22.49.03:301][981]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.12.09-22.49.03:329][981]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.12.09-22.49.03:329][981]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.12.09-22.49.03:335][981]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.12.09-22.49.03:335][981]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.12.09-22.49.03:335][981]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.12.09-22.49.03:378][981]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.12.09-22.49.03:390][981]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.12.09-22.49.03:390][981]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.12.09-22.49.03:420][981]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.12.09-22.49.03:420][981]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.12.09-22.49.03:433][981]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.12.09-22.49.03:433][981]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.12.09-22.49.03:433][981]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.12.09-22.49.03:433][981]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.12.09-22.49.03:433][981]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.12.09-22.49.03:433][981]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.12.09-22.49.03:433][981]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.09-22.49.03:434][981]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.12.09-22.49.03:434][981]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.12.09-22.49.03:450][981]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.12.09-22.49.03:463][981]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.12.09-22.49.03:463][981]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.12.09-22.49.03:470][981]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.12.09-22.49.03:470][981]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.12.09-22.49.03:478][981]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.12.09-22.49.03:488][981]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.12.09-22.49.03:488][981]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.12.09-22.49.03:538][981]LogDerivedDataCache: Shutdown
+[2017.12.09-22.49.03:538][981]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.12.09-22.49.03:538][981]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.12.09-22.49.03:552][981]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.12.09-22.49.03:567][981]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.12.09-22.49.03:582][981]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.12.09-22.49.03:582][981]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.12.09-22.49.03:616][981]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.12.09-22.49.03:616][981]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.12.09-22.49.03:616][981]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.12.09-22.49.03:616][981]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.12.09-22.49.03:617][981]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.12.09-22.49.03:617][981]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.12.09-22.49.03:617][981]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.12.09-22.49.03:617][981]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.12.09-22.49.03:617][981]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.12.09-22.49.03:617][981]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.12.09-22.49.03:617][981]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.12.09-22.49.03:617][981]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.12.09-22.49.03:617][981]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.12.09-22.49.03:618][981]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.12.09-22.49.03:618][981]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.12.09-22.49.03:618][981]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.12.09-22.49.03:618][981]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.12.09-22.49.03:618][981]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.12.09-22.49.03:618][981]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.12.09-22.49.03:618][981]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.12.09-22.49.03:619][981]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.12.09-22.49.03:619][981]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.12.09-22.49.03:619][981]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.12.09-22.49.03:619][981]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.12.09-22.49.03:619][981]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.12.09-22.49.03:619][981]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.12.09-22.49.03:619][981]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.12.09-22.49.03:619][981]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.12.09-22.49.03:619][981]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.12.09-22.49.03:619][981]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.12.09-22.49.03:620][981]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.12.09-22.49.03:620][981]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.12.09-22.49.03:620][981]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.12.09-22.49.03:620][981]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.12.09-22.49.03:620][981]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.12.09-22.49.03:620][981]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.12.09-22.49.03:621][981]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.12.09-22.49.03:621][981]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.12.09-22.49.03:621][981]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.12.09-22.49.03:621][981]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.12.09-22.49.03:630][981]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.12.09-22.49.03:630][981]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.09-22.49.03:630][981]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.09-22.49.03:630][981]LogOnline: Display: Unloading online subsystem: NULL
+[2017.12.09-22.49.03:642][981]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.09-22.49.03:652][981]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.09-22.49.03:652][981]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.09-22.49.03:666][981]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5D4490B8-41FB-24CB-22BE-119F720D0754%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=2d21c60542ace5f752753183dc8f18c2%7Ce5af69ae52c34ec8bca2a7c038d1ea3c%7C8aa367c0-17d2-4038-b458-d3f575842514&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.09-22.49.03:689][981]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.09-22.49.03:708][981]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.09-22.49.03:719][981]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.09-22.49.03:719][981]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.09-22.49.03:739][981]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.09-22.49.03:739][981]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.09-22.49.03:739][981]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.09-22.49.03:739][981]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.09-22.49.03:759][981]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.09-22.49.03:770][981]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.09-22.49.03:770][981]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.09-22.49.03:783][981]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.09-22.49.03:783][981]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.09-22.49.03:783][981]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.09-22.49.03:783][981]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.09-22.49.03:783][981]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.09-22.49.03:783][981]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.09-22.49.03:783][981]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.09-22.49.03:783][981]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.09-22.49.03:793][981]LogExit: Exiting.
+[2017.12.09-22.49.03:812][981]Log file closed, 12/09/17 18:49:03
